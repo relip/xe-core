@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS
+END
+MultipleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/MultipleTest.php
+END
+TextDecorationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/TextDecorationTest.php
+END
+ListStyleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/ListStyleTest.php
+END
+URITest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/URITest.php
+END
+CompositeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/CompositeTest.php
+END
+BackgroundPositionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/BackgroundPositionTest.php
+END
+FontTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/FontTest.php
+END
+FontFamilyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/FontFamilyTest.php
+END
+PercentageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/PercentageTest.php
+END
+BorderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/BorderTest.php
+END
+ColorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/ColorTest.php
+END
+BackgroundTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/BackgroundTest.php
+END
+ImportantDecoratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/ImportantDecoratorTest.php
+END
+LengthTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/LengthTest.php
+END
+AlphaValueTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/AlphaValueTest.php
+END
+FilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/FilterTest.php
+END
+NumberTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/CSS/NumberTest.php
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11226/trunk/modules/module/schemas
+END
+module_locks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/module/schemas/module_locks.xml
+END
+module_admins.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/module/schemas/module_admins.xml
+END
+lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9867/trunk/modules/module/schemas/lang.xml
+END
+module_extra_vars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/module/schemas/module_extra_vars.xml
+END
+module_mobile_skins.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11226/trunk/modules/module/schemas/module_mobile_skins.xml
+END
+sites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9867/trunk/modules/module/schemas/sites.xml
+END
+module_categories.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/module/schemas/module_categories.xml
+END
+module_extend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/module/schemas/module_extend.xml
+END
+module_skins.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/module/schemas/module_skins.xml
+END
+module_filebox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/module/schemas/module_filebox.xml
+END
+module_part_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/schemas/module_part_config.xml
+END
+action_forward.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/module/schemas/action_forward.xml
+END
+module_grants.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/module/schemas/module_grants.xml
+END
+modules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9867/trunk/modules/module/schemas/modules.xml
+END
+module_trigger.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/module/schemas/module_trigger.xml
+END
+module_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/module/schemas/module_config.xml
+END
+site_admin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/module/schemas/site_admin.xml
+END

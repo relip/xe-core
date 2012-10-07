@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests
+END
+cacheConfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/cacheConfig.php
+END
+extractStyleBlocks.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/extractStyleBlocks.php
+END
+configForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/configForm.php
+END
+dataScheme.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/dataScheme.php
+END
+xssAttacks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/xssAttacks.xml
+END
+printDefinition.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/printDefinition.php
+END
+attrTransform.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/attrTransform.php
+END
+preserveYouTube.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/preserveYouTube.php
+END
+all.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/all.php
+END
+img.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/img.png
+END
+innerHTML.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/innerHTML.html
+END
+variableWidthAttack.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/variableWidthAttack.php
+END
+attrTransform.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/attrTransform.xml
+END
+basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/basic.php
+END
+innerHTML.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/innerHTML.js
+END
+common.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/common.php
+END
+xssAttacks.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/xssAttacks.php
+END

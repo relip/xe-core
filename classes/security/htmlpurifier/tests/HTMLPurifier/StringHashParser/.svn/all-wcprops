@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/StringHashParser
+END
+OverrideSingle.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/StringHashParser/OverrideSingle.txt
+END
+Default.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/StringHashParser/Default.txt
+END
+Simple.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/StringHashParser/Simple.txt
+END
+Multi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/StringHashParser/Multi.txt
+END
+AppendMultiline.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/StringHashParser/AppendMultiline.txt
+END

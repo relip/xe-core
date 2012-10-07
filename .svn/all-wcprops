@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/11284/trunk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/8204/trunk/LICENSE
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/11226/trunk/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/10031/trunk/index.php
+END

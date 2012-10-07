@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9867/trunk/modules/autoinstall/schemas
+END
+ai_installed_packages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9867/trunk/modules/autoinstall/schemas/ai_installed_packages.xml
+END
+ai_remote_categories.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/autoinstall/schemas/ai_remote_categories.xml
+END
+autoinstall_packages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/autoinstall/schemas/autoinstall_packages.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/communication/skins/default/filter
+END
+update_allow_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9867/trunk/modules/communication/skins/default/filter/update_allow_message.xml
+END
+delete_friend_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9867/trunk/modules/communication/skins/default/filter/delete_friend_group.xml
+END
+add_friend_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9867/trunk/modules/communication/skins/default/filter/add_friend_group.xml
+END
+delete_checked_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9867/trunk/modules/communication/skins/default/filter/delete_checked_message.xml
+END
+move_friend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9867/trunk/modules/communication/skins/default/filter/move_friend.xml
+END
+send_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9867/trunk/modules/communication/skins/default/filter/send_message.xml
+END
+add_friend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9867/trunk/modules/communication/skins/default/filter/add_friend.xml
+END
+delete_checked_friend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9867/trunk/modules/communication/skins/default/filter/delete_checked_friend.xml
+END

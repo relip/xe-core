@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mssql/data
+END
+opage.getOpageList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mssql/data/opage.getOpageList.xml
+END
+one_index_hint_one_table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mssql/data/one_index_hint_one_table.xml
+END
+three_index_hints_two_tables.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mssql/data/three_index_hints_two_tables.xml
+END
+index_hint_for_all.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mssql/data/index_hint_for_all.xml
+END
+ignore_index_hint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mssql/data/ignore_index_hint.xml
+END
+two_index_hints_one_table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mssql/data/two_index_hints_one_table.xml
+END
+syndication.getGrantedModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mssql/data/syndication.getGrantedModule.xml
+END
+mysql_index_hint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mssql/data/mysql_index_hint.xml
+END

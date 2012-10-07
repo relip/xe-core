@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11226/trunk/modules/integration_search
+END
+integration_search.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11226/trunk/modules/integration_search/integration_search.class.php
+END
+integration_search.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11226/trunk/modules/integration_search/integration_search.view.php
+END
+integration_search.admin.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10951/trunk/modules/integration_search/integration_search.admin.controller.php
+END
+integration_search.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10951/trunk/modules/integration_search/integration_search.model.php
+END
+integration_search.admin.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11226/trunk/modules/integration_search/integration_search.admin.view.php
+END

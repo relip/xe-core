@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ChildDef
+END
+Custom.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ChildDef/Custom.php
+END
+Chameleon.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ChildDef/Chameleon.php
+END
+List.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ChildDef/List.php
+END
+Empty.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ChildDef/Empty.php
+END
+Required.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ChildDef/Required.php
+END
+StrictBlockquote.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ChildDef/StrictBlockquote.php
+END
+Optional.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ChildDef/Optional.php
+END
+Table.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ChildDef/Table.php
+END

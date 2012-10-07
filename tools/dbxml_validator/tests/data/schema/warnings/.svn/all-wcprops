@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/schema/warnings
+END
+tinyText.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/schema/warnings/tinyText.xml
+END
+autoIncrement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/schema/warnings/autoIncrement.xml
+END

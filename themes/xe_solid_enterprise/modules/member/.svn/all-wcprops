@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11226/trunk/themes/xe_solid_enterprise/modules/member
+END
+openid_leave_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10446/trunk/themes/xe_solid_enterprise/modules/member/openid_leave_form.html
+END
+leave_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10446/trunk/themes/xe_solid_enterprise/modules/member/leave_form.html
+END
+saved_list_popup.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/member/saved_list_popup.html
+END
+member_info.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11226/trunk/themes/xe_solid_enterprise/modules/member/member_info.html
+END
+find_member_account.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10446/trunk/themes/xe_solid_enterprise/modules/member/find_member_account.html
+END
+find_member_account_mail.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/member/find_member_account_mail.html
+END
+find_temp_password.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/member/find_temp_password.html
+END
+signup_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10446/trunk/themes/xe_solid_enterprise/modules/member/signup_form.html
+END
+login_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10951/trunk/themes/xe_solid_enterprise/modules/member/login_form.html
+END
+scrapped_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/member/scrapped_list.html
+END
+saved_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/member/saved_list.html
+END
+skin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/member/skin.xml
+END
+common_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/member/common_header.html
+END
+confirm_member_account_mail.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/member/confirm_member_account_mail.html
+END
+modify_info.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10951/trunk/themes/xe_solid_enterprise/modules/member/modify_info.html
+END
+thumbnail.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/member/thumbnail.png
+END
+resend_auth_mail.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10446/trunk/themes/xe_solid_enterprise/modules/member/resend_auth_mail.html
+END
+common_footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/member/common_footer.html
+END
+logout.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/member/logout.html
+END
+modify_password.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10446/trunk/themes/xe_solid_enterprise/modules/member/modify_password.html
+END
+document_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10446/trunk/themes/xe_solid_enterprise/modules/member/document_list.html
+END

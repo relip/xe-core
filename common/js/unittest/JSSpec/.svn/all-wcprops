@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9867/trunk/common/js/unittest/JSSpec
+END
+JSSpec.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/common/js/unittest/JSSpec/JSSpec.js
+END
+demo.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/common/js/unittest/JSSpec/demo.html
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8204/trunk/common/js/unittest/JSSpec/COPYING
+END
+diff_match_patch.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/common/js/unittest/JSSpec/diff_match_patch.js
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/11226/trunk/classes/display
+END
+VirtualXMLDisplayHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10951/trunk/classes/display/VirtualXMLDisplayHandler.php
+END
+JSONDisplayHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10951/trunk/classes/display/JSONDisplayHandler.php
+END
+XMLDisplayHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10951/trunk/classes/display/XMLDisplayHandler.php
+END
+DisplayHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10951/trunk/classes/display/DisplayHandler.class.php
+END
+HTMLDisplayHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11226/trunk/classes/display/HTMLDisplayHandler.php
+END

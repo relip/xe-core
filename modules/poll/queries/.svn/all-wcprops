@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10446/trunk/modules/poll/queries
+END
+updatePollTarget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/poll/queries/updatePollTarget.xml
+END
+updatePollTitleTarget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/poll/queries/updatePollTitleTarget.xml
+END
+getPollItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/poll/queries/getPollItem.xml
+END
+getPollListWithMember.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10446/trunk/modules/poll/queries/getPollListWithMember.xml
+END
+deletePoll.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/poll/queries/deletePoll.xml
+END
+getPollByTargetSrl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/poll/queries/getPollByTargetSrl.xml
+END
+insertPoll.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/poll/queries/insertPoll.xml
+END
+deletePollTitle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/poll/queries/deletePollTitle.xml
+END
+deletePollLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/poll/queries/deletePollLog.xml
+END
+insertPollTitle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/poll/queries/insertPollTitle.xml
+END
+insertPollLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/poll/queries/insertPollLog.xml
+END
+updatePollItemTarget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/poll/queries/updatePollItemTarget.xml
+END
+getPollList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/poll/queries/getPollList.xml
+END
+getPoll.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9867/trunk/modules/poll/queries/getPoll.xml
+END
+getPollTitle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/poll/queries/getPollTitle.xml
+END
+getPollLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/poll/queries/getPollLog.xml
+END
+deletePollItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/poll/queries/deletePollItem.xml
+END
+updatePoll.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/poll/queries/updatePoll.xml
+END
+insertPollItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/poll/queries/insertPollItem.xml
+END
+updatePollTitle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/poll/queries/updatePollTitle.xml
+END
+updatePollItems.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/poll/queries/updatePollItems.xml
+END

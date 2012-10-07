@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/11226/trunk/modules/page/tpl
+END
+page_content_modify.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10446/trunk/modules/page/tpl/page_content_modify.html
+END
+page_delete.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10031/trunk/modules/page/tpl/page_delete.html
+END
+skin_info.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11226/trunk/modules/page/tpl/skin_info.html
+END
+page_insert.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10031/trunk/modules/page/tpl/page_insert.html
+END
+article_content_modify.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10446/trunk/modules/page/tpl/article_content_modify.html
+END
+page_mobile_content_modify.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10446/trunk/modules/page/tpl/page_mobile_content_modify.html
+END
+grant_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9867/trunk/modules/page/tpl/grant_list.html
+END
+mcontent.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9896/trunk/modules/page/tpl/mcontent.html
+END
+page_info.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11226/trunk/modules/page/tpl/page_info.html
+END
+mobile.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9867/trunk/modules/page/tpl/mobile.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10446/trunk/modules/page/tpl/index.html
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11226/trunk/modules/page/tpl/header.html
+END
+content.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11226/trunk/modules/page/tpl/content.html
+END
+addition_setup.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/page/tpl/addition_setup.html
+END

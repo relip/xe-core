@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10951/trunk/tests/classes/db/db/xml_query/cubrid
+END
+CubridDeleteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/CubridDeleteTest.php
+END
+CubridUpdateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/CubridUpdateTest.php
+END
+CubridInsertTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/CubridInsertTest.php
+END
+CubridSelectOnlineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/CubridSelectOnlineTest.php
+END
+CubridInsertOnlineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/CubridInsertOnlineTest.php
+END
+CubridIndexHintTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/CubridIndexHintTest.php
+END
+CubridSelectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10534/trunk/tests/classes/db/db/xml_query/cubrid/CubridSelectTest.php
+END
+CubridSubqueryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/CubridSubqueryTest.php
+END

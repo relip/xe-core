@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9867/trunk/modules/point/tpl/filter
+END
+insert_act_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/point/tpl/filter/insert_act_config.xml
+END
+insert_point_module_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9867/trunk/modules/point/tpl/filter/insert_point_module_config.xml
+END
+insert_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/point/tpl/filter/insert_config.xml
+END
+update_point.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/point/tpl/filter/update_point.xml
+END
+insert_module_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/point/tpl/filter/insert_module_config.xml
+END

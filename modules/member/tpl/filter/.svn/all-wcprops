@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter
+END
+insert_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/insert_group.xml
+END
+delete_profile_image.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/delete_profile_image.xml
+END
+update_join_form.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/update_join_form.xml
+END
+insert_denied_id.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/insert_denied_id.xml
+END
+delete_member.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/delete_member.xml
+END
+insert_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/insert_config.xml
+END
+manage_member_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/manage_member_group.xml
+END
+update_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/update_group.xml
+END
+insert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/insert.xml
+END
+delete_image_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/delete_image_name.xml
+END
+insert_join_form.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/insert_join_form.xml
+END
+update_denied_id.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/update_denied_id.xml
+END
+update_member.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/update_member.xml
+END
+delete_members.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/delete_members.xml
+END
+delete_image_mark.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/member/tpl/filter/delete_image_mark.xml
+END

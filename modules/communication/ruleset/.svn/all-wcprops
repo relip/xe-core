@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9867/trunk/modules/communication/ruleset
+END
+addFriend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/communication/ruleset/addFriend.xml
+END
+deleteCheckedFriend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9867/trunk/modules/communication/ruleset/deleteCheckedFriend.xml
+END
+moveCheckedFriend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/communication/ruleset/moveCheckedFriend.xml
+END
+insertConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/communication/ruleset/insertConfig.xml
+END
+addFriendGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/communication/ruleset/addFriendGroup.xml
+END
+sendMessage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/communication/ruleset/sendMessage.xml
+END

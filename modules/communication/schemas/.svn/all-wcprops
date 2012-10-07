@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9867/trunk/modules/communication/schemas
+END
+member_friend_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9867/trunk/modules/communication/schemas/member_friend_group.xml
+END
+member_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/communication/schemas/member_message.xml
+END
+member_friend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/communication/schemas/member_friend.xml
+END

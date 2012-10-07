@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/navigation
+END
+LimitTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/navigation/LimitTag.class.php
+END
+NavigationTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/navigation/NavigationTag.class.php
+END
+IndexTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/navigation/IndexTag.class.php
+END

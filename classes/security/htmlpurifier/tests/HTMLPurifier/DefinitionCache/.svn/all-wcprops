@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/DefinitionCache
+END
+SerializerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/DefinitionCache/SerializerTest.php
+END
+DecoratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/DefinitionCache/DecoratorTest.php
+END
+DecoratorHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/DefinitionCache/DecoratorHarness.php
+END

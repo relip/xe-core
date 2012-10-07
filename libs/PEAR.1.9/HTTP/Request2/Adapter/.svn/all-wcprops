@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/libs/PEAR.1.9/HTTP/Request2/Adapter
+END
+Mock.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/libs/PEAR.1.9/HTTP/Request2/Adapter/Mock.php
+END
+Curl.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/libs/PEAR.1.9/HTTP/Request2/Adapter/Curl.php
+END
+Socket.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/libs/PEAR.1.9/HTTP/Request2/Adapter/Socket.php
+END

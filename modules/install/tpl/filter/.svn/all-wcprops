@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11226/trunk/modules/install/tpl/filter
+END
+sqlite2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/install/tpl/filter/sqlite2.xml
+END
+postgresql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/install/tpl/filter/postgresql.xml
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/install/tpl/filter/config.xml
+END
+mysql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/install/tpl/filter/mysql.xml
+END
+firebird.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/install/tpl/filter/firebird.xml
+END
+cubrid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/install/tpl/filter/cubrid.xml
+END
+admin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/install/tpl/filter/admin.xml
+END
+mssql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/install/tpl/filter/mssql.xml
+END

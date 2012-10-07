@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11226/trunk/modules/module/ruleset
+END
+updateCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/module/ruleset/updateCategory.xml
+END
+copyModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/module/ruleset/copyModule.xml
+END
+deleteCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/module/ruleset/deleteCategory.xml
+END
+insertCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/module/ruleset/insertCategory.xml
+END
+insertModulesGrant.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/ruleset/insertModulesGrant.xml
+END
+insertModuleSetup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11226/trunk/modules/module/ruleset/insertModuleSetup.xml
+END

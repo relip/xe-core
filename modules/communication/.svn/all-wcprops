@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11226/trunk/modules/communication
+END
+communication.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11226/trunk/modules/communication/communication.class.php
+END
+communication.admin.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10951/trunk/modules/communication/communication.admin.model.php
+END
+communication.mobile.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11226/trunk/modules/communication/communication.mobile.php
+END
+communication.admin.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11226/trunk/modules/communication/communication.admin.controller.php
+END
+communication.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11226/trunk/modules/communication/communication.view.php
+END
+communication.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11226/trunk/modules/communication/communication.model.php
+END
+communication.admin.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11226/trunk/modules/communication/communication.admin.view.php
+END
+communication.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10951/trunk/modules/communication/communication.controller.php
+END

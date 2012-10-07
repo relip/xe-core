@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/9867/trunk/modules/addon/queries
+END
+deleteSiteAddons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/addon/queries/deleteSiteAddons.xml
+END
+getMAddonIsActivated.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/addon/queries/getMAddonIsActivated.xml
+END
+getSiteAddonInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/addon/queries/getSiteAddonInfo.xml
+END
+updateAddon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/addon/queries/updateAddon.xml
+END
+getSiteAddonIsActivated.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/addon/queries/getSiteAddonIsActivated.xml
+END
+getSiteAddons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/addon/queries/getSiteAddons.xml
+END
+deleteSiteAddon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/addon/queries/deleteSiteAddon.xml
+END
+insertSiteAddon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/addon/queries/insertSiteAddon.xml
+END
+getAddonInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/addon/queries/getAddonInfo.xml
+END
+getAddonIsActivated.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/addon/queries/getAddonIsActivated.xml
+END
+deleteAddon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/addon/queries/deleteAddon.xml
+END
+getSiteMAddonIsActivated.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/addon/queries/getSiteMAddonIsActivated.xml
+END
+getAddons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/addon/queries/getAddons.xml
+END
+insertAddon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/addon/queries/insertAddon.xml
+END
+updateSiteAddon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/addon/queries/updateSiteAddon.xml
+END

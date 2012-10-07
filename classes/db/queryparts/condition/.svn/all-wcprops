@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/condition
+END
+ConditionWithArgument.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/condition/ConditionWithArgument.class.php
+END
+ConditionSubquery.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/condition/ConditionSubquery.class.php
+END
+Condition.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/condition/Condition.class.php
+END
+ConditionWithoutArgument.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/condition/ConditionWithoutArgument.class.php
+END
+ConditionGroup.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/condition/ConditionGroup.class.php
+END

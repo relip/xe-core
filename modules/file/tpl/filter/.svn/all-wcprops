@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9867/trunk/modules/file/tpl/filter
+END
+delete_checked.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/file/tpl/filter/delete_checked.xml
+END
+insert_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/file/tpl/filter/insert_config.xml
+END
+insert_file_module_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9867/trunk/modules/file/tpl/filter/insert_file_module_config.xml
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/11226/trunk/modules/member/tpl
+END
+delete_members.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/member/tpl/delete_members.html
+END
+join_form_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10446/trunk/modules/member/tpl/join_form_list.html
+END
+leave_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10446/trunk/modules/member/tpl/leave_form.html
+END
+group_update_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10446/trunk/modules/member/tpl/group_update_form.html
+END
+member_info.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10446/trunk/modules/member/tpl/member_info.html
+END
+find_member_account.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10951/trunk/modules/member/tpl/find_member_account.html
+END
+colorset_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/member/tpl/colorset_list.html
+END
+delete_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/member/tpl/delete_form.html
+END
+group_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10446/trunk/modules/member/tpl/group_list.html
+END
+find_temp_password.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10951/trunk/modules/member/tpl/find_temp_password.html
+END
+signup_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10951/trunk/modules/member/tpl/signup_form.html
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9867/trunk/modules/member/tpl/header.html
+END
+modify_info_mobile.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11226/trunk/modules/member/tpl/modify_info_mobile.html
+END
+login_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10951/trunk/modules/member/tpl/login_form.html
+END
+manage_member_group.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/member/tpl/manage_member_group.html
+END
+insert_member.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10466/trunk/modules/member/tpl/insert_member.html
+END
+member_config.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11226/trunk/modules/member/tpl/member_config.html
+END
+denied_id_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10446/trunk/modules/member/tpl/denied_id_list.html
+END
+redirect.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9867/trunk/modules/member/tpl/redirect.html
+END
+msg_success_modify_email_address.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10031/trunk/modules/member/tpl/msg_success_modify_email_address.html
+END
+member_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10519/trunk/modules/member/tpl/member_list.html
+END
+insert_join_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11226/trunk/modules/member/tpl/insert_join_form.html
+END
+msg_success_authed.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/member/tpl/msg_success_authed.html
+END
+logout.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9867/trunk/modules/member/tpl/logout.html
+END
+member_info_mobile.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11226/trunk/modules/member/tpl/member_info_mobile.html
+END
+modify_password.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10951/trunk/modules/member/tpl/modify_password.html
+END

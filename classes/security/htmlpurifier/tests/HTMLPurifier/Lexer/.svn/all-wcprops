@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Lexer
+END
+DirectLex_ErrorsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Lexer/DirectLex_ErrorsTest.php
+END
+DirectLexTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Lexer/DirectLexTest.php
+END

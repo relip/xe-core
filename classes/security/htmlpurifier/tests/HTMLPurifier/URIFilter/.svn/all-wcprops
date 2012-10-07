@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/URIFilter
+END
+MungeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/URIFilter/MungeTest.php
+END
+MakeAbsoluteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/URIFilter/MakeAbsoluteTest.php
+END
+DisableResourcesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/URIFilter/DisableResourcesTest.php
+END
+DisableExternalResourcesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/URIFilter/DisableExternalResourcesTest.php
+END
+HostBlacklistTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/URIFilter/HostBlacklistTest.php
+END
+DisableExternalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/URIFilter/DisableExternalTest.php
+END

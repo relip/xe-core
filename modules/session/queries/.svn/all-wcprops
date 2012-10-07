@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9867/trunk/modules/session/queries
+END
+getSession.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/session/queries/getSession.xml
+END
+deleteSession.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/session/queries/deleteSession.xml
+END
+updateSession.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/session/queries/updateSession.xml
+END
+getExpiredSessions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/session/queries/getExpiredSessions.xml
+END
+insertSession.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/session/queries/insertSession.xml
+END
+getLoggedMembers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/session/queries/getLoggedMembers.xml
+END
+gcSession.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/session/queries/gcSession.xml
+END

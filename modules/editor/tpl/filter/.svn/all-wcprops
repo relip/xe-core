@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9867/trunk/modules/editor/tpl/filter
+END
+setup_component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/editor/tpl/filter/setup_component.xml
+END
+insert_editor_module_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9867/trunk/modules/editor/tpl/filter/insert_editor_module_config.xml
+END

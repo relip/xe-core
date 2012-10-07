@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ConfigSchema
+END
+ValidatorTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ConfigSchema/ValidatorTestCase.php
+END
+ValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ConfigSchema/ValidatorTest.php
+END
+ValidatorAtomTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ConfigSchema/ValidatorAtomTest.php
+END
+InterchangeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ConfigSchema/InterchangeTest.php
+END

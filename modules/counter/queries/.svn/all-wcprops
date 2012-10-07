@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9867/trunk/modules/counter/queries
+END
+getCounterLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/counter/queries/getCounterLog.xml
+END
+getSiteStartLogDate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/counter/queries/getSiteStartLogDate.xml
+END
+getCounterStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/counter/queries/getCounterStatus.xml
+END
+getTodayStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/counter/queries/getTodayStatus.xml
+END
+getCounterLogStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/counter/queries/getCounterLogStatus.xml
+END
+deleteSiteCounter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/counter/queries/deleteSiteCounter.xml
+END
+deleteSiteCounterLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/counter/queries/deleteSiteCounterLog.xml
+END
+getSiteCounterStatusDays.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/counter/queries/getSiteCounterStatusDays.xml
+END
+getStartLogDate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/counter/queries/getStartLogDate.xml
+END
+insertSiteTodayStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/counter/queries/insertSiteTodayStatus.xml
+END
+updateSiteCounterUnique.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/counter/queries/updateSiteCounterUnique.xml
+END
+updateSiteCounterPageview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9867/trunk/modules/counter/queries/updateSiteCounterPageview.xml
+END
+updateSiteTotalCounterUnique.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9867/trunk/modules/counter/queries/updateSiteTotalCounterUnique.xml
+END
+getSiteLogDate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/counter/queries/getSiteLogDate.xml
+END
+getCounterStatusDays.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/counter/queries/getCounterStatusDays.xml
+END
+insertCounterLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/counter/queries/insertCounterLog.xml
+END
+getSiteCounterStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/counter/queries/getSiteCounterStatus.xml
+END
+insertTodayStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/counter/queries/insertTodayStatus.xml
+END
+updateCounterUnique.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/counter/queries/updateCounterUnique.xml
+END
+getSiteTodayStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/counter/queries/getSiteTodayStatus.xml
+END
+getSiteCounterLogStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/counter/queries/getSiteCounterLogStatus.xml
+END
+updateCounterPageview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/counter/queries/updateCounterPageview.xml
+END
+updateTotalCounterUnique.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/counter/queries/updateTotalCounterUnique.xml
+END
+updateTotalCounterPageview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9867/trunk/modules/counter/queries/updateTotalCounterPageview.xml
+END

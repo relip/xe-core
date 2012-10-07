@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy
+END
+ValidateAttributes_TidyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy/ValidateAttributes_TidyTest.php
+END
+FixNesting_ErrorsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy/FixNesting_ErrorsTest.php
+END
+MakeWellFormed_ErrorsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy/MakeWellFormed_ErrorsTest.php
+END
+MakeWellFormed_InjectorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy/MakeWellFormed_InjectorTest.php
+END
+ValidateAttributes_IDTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy/ValidateAttributes_IDTest.php
+END
+RemoveForeignElements_TidyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy/RemoveForeignElements_TidyTest.php
+END
+MakeWellFormedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy/MakeWellFormedTest.php
+END
+FixNestingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy/FixNestingTest.php
+END
+RemoveForeignElements_ErrorsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy/RemoveForeignElements_ErrorsTest.php
+END
+ValidateAttributesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy/ValidateAttributesTest.php
+END
+ErrorsHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy/ErrorsHarness.php
+END
+CompositeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy/CompositeTest.php
+END
+RemoveForeignElementsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy/RemoveForeignElementsTest.php
+END
+CoreTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Strategy/CoreTest.php
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10951/trunk/tests/classes/db/db/xml_query/cubrid/data
+END
+opage.getOpageList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/opage.getOpageList.xml
+END
+three_index_hints_two_tables.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/three_index_hints_two_tables.xml
+END
+three_index_hints_two_tables_combined.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/three_index_hints_two_tables_combined.xml
+END
+rlike1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10157/trunk/tests/classes/db/db/xml_query/cubrid/data/rlike1.xml
+END
+index_hint_for_all.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/index_hint_for_all.xml
+END
+from_correlated1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/from_correlated1.xml
+END
+from_correlated2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/from_correlated2.xml
+END
+from_uncorrelated1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/from_uncorrelated1.xml
+END
+syndication.getModules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/syndication.getModules.xml
+END
+ignore_index_hint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/ignore_index_hint.xml
+END
+from_uncorrelated2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/from_uncorrelated2.xml
+END
+where_correlated1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/where_correlated1.xml
+END
+where_correlated2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/where_correlated2.xml
+END
+syndication.getGrantedModules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/syndication.getGrantedModules.xml
+END
+resource.getLatestItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10534/trunk/tests/classes/db/db/xml_query/cubrid/data/resource.getLatestItem.xml
+END
+where_uncorrelated1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/where_uncorrelated1.xml
+END
+one_index_hint_one_table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/one_index_hint_one_table.xml
+END
+doc_subquery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10951/trunk/tests/classes/db/db/xml_query/cubrid/data/doc_subquery.xml
+END
+select_correlated1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/select_correlated1.xml
+END
+select_correlated2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/select_correlated2.xml
+END
+select_uncorrelated1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/select_uncorrelated1.xml
+END
+select_uncorrelated2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/select_uncorrelated2.xml
+END
+two_index_hints_one_table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/two_index_hints_one_table.xml
+END
+mysql_index_hint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/cubrid/data/mysql_index_hint.xml
+END

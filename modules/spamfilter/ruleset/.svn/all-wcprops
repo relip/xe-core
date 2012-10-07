@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11226/trunk/modules/spamfilter/ruleset
+END
+deleteDeniedIp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/spamfilter/ruleset/deleteDeniedIp.xml
+END
+deleteDeniedWord.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/spamfilter/ruleset/deleteDeniedWord.xml
+END
+insertConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11226/trunk/modules/spamfilter/ruleset/insertConfig.xml
+END

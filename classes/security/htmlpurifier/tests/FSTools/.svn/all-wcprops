@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/FSTools
+END
+FileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/FSTools/FileTest.php
+END
+FileSystemHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/FSTools/FileSystemHarness.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/extras
+END
+FSTools.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/extras/FSTools.php
+END
+HTMLPurifierExtras.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/extras/HTMLPurifierExtras.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/extras/README
+END
+HTMLPurifierExtras.autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/extras/HTMLPurifierExtras.autoload.php
+END
+HTMLPurifierExtras.auto.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/extras/HTMLPurifierExtras.auto.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10951/trunk/tests/classes/validator
+END
+customrule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10951/trunk/tests/classes/validator/customrule.xml
+END
+condition.en.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/tests/classes/validator/condition.en.js
+END
+insertDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/tests/classes/validator/insertDocument.xml
+END
+condition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/tests/classes/validator/condition.xml
+END
+login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9867/trunk/tests/classes/validator/login.xml
+END
+ValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10951/trunk/tests/classes/validator/ValidatorTest.php
+END

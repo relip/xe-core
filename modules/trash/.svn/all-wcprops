@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10951/trunk/modules/trash
+END
+trash.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10951/trunk/modules/trash/trash.view.php
+END
+trash.admin.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10951/trunk/modules/trash/trash.admin.controller.php
+END
+trash.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10951/trunk/modules/trash/trash.model.php
+END
+trash.admin.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10951/trunk/modules/trash/trash.admin.view.php
+END
+trash.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10951/trunk/modules/trash/trash.controller.php
+END
+trash.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10951/trunk/modules/trash/trash.class.php
+END

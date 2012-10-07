@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier
+END
+AttrDefTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDefTest.php
+END
+URIFilterHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/URIFilterHarness.php
+END
+AttrTransformHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransformHarness.php
+END
+ConfigTest-finalize.ini
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ConfigTest-finalize.ini
+END
+HTMLModuleHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/HTMLModuleHarness.php
+END
+ErrorsHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ErrorsHarness.php
+END
+DoctypeRegistryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/DoctypeRegistryTest.php
+END
+Harness.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Harness.php
+END
+DefinitionCacheFactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/DefinitionCacheFactoryTest.php
+END
+HTMLModuleManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/HTMLModuleManagerTest.php
+END
+ConfigTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ConfigTest.php
+END
+EntityLookupTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/EntityLookupTest.php
+END
+AttrTransformTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransformTest.php
+END
+UnitConverterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/UnitConverterTest.php
+END
+URIDefinitionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/URIDefinitionTest.php
+END
+ElementDefTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ElementDefTest.php
+END
+TokenFactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/TokenFactoryTest.php
+END
+HTMLModuleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/HTMLModuleTest.php
+END
+LanguageFactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/LanguageFactoryTest.php
+END
+AttrValidator_ErrorsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrValidator_ErrorsTest.php
+END
+DefinitionTestable.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/DefinitionTestable.php
+END
+URISchemeRegistryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/URISchemeRegistryTest.php
+END
+AttrDefHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDefHarness.php
+END
+ErrorCollectorEMock.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ErrorCollectorEMock.php
+END
+PropertyListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PropertyListTest.php
+END
+LengthTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/LengthTest.php
+END
+LanguageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/LanguageTest.php
+END
+ConfigSchemaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ConfigSchemaTest.php
+END
+GeneratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/GeneratorTest.php
+END
+DefinitionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/DefinitionTest.php
+END
+EntityParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/EntityParserTest.php
+END
+VarParserHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/VarParserHarness.php
+END
+ComplexHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ComplexHarness.php
+END
+IDAccumulatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/IDAccumulatorTest.php
+END
+ConfigTest-create.ini
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ConfigTest-create.ini
+END
+AttrTypesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTypesTest.php
+END
+URITest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/URITest.php
+END
+ErrorCollectorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ErrorCollectorTest.php
+END
+DefinitionCacheHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/DefinitionCacheHarness.php
+END
+PercentEncoderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PercentEncoderTest.php
+END
+InjectorHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/InjectorHarness.php
+END
+TagTransformTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/TagTransformTest.php
+END
+AttrCollectionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrCollectionsTest.php
+END
+StringHashTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/StringHashTest.php
+END
+ConfigTest-loadIni.ini
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ConfigTest-loadIni.ini
+END
+URIParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/URIParserTest.php
+END
+DefinitionCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/DefinitionCacheTest.php
+END
+HTMLDefinitionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/HTMLDefinitionTest.php
+END
+EncoderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/EncoderTest.php
+END
+LexerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/LexerTest.php
+END
+TokenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/TokenTest.php
+END
+URIHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/URIHarness.php
+END
+ContextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ContextTest.php
+END
+URISchemeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/URISchemeTest.php
+END
+StrategyHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/StrategyHarness.php
+END
+ChildDefHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/ChildDefHarness.php
+END
+StringHashParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/StringHashParserTest.php
+END
+HTMLT.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/HTMLT.php
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11226/trunk/modules/install/ruleset
+END
+sqlite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9867/trunk/modules/install/ruleset/sqlite.xml
+END
+postgresql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/install/ruleset/postgresql.xml
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9867/trunk/modules/install/ruleset/config.xml
+END
+mysql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11226/trunk/modules/install/ruleset/mysql.xml
+END
+firebird.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/install/ruleset/firebird.xml
+END
+install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/install/ruleset/install.xml
+END
+cubrid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9867/trunk/modules/install/ruleset/cubrid.xml
+END
+installFtpInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/install/ruleset/installFtpInfo.xml
+END
+mssql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9867/trunk/modules/install/ruleset/mssql.xml
+END

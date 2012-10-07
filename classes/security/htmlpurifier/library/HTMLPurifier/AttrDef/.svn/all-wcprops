@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef
+END
+Integer.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/Integer.php
+END
+URI.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/URI.php
+END
+Clone.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/Clone.php
+END
+Switch.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/Switch.php
+END
+Lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/Lang.php
+END
+Enum.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/Enum.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/Text.php
+END
+CSS.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/CSS.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9867/trunk/widgets/content/queries
+END
+getCategories.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/widgets/content/queries/getCategories.xml
+END
+getNewestDocuments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/widgets/content/queries/getNewestDocuments.xml
+END
+getMids.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/widgets/content/queries/getMids.xml
+END

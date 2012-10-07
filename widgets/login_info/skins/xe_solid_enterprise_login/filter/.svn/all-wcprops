@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9867/trunk/widgets/login_info/skins/xe_solid_enterprise_login/filter
+END
+openid_login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9867/trunk/widgets/login_info/skins/xe_solid_enterprise_login/filter/openid_login.xml
+END
+login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9867/trunk/widgets/login_info/skins/xe_solid_enterprise_login/filter/login.xml
+END
+logout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9867/trunk/widgets/login_info/skins/xe_solid_enterprise_login/filter/logout.xml
+END

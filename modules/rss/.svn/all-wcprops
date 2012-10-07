@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10951/trunk/modules/rss
+END
+rss.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10951/trunk/modules/rss/rss.controller.php
+END
+rss.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10951/trunk/modules/rss/rss.class.php
+END
+rss.admin.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10951/trunk/modules/rss/rss.admin.controller.php
+END
+rss.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10951/trunk/modules/rss/rss.view.php
+END
+rss.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10951/trunk/modules/rss/rss.model.php
+END
+rss.admin.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10951/trunk/modules/rss/rss.admin.view.php
+END

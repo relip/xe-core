@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10951/trunk/modules/adminlogging
+END
+adminlogging.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10951/trunk/modules/adminlogging/adminlogging.model.php
+END
+adminlogging.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10951/trunk/modules/adminlogging/adminlogging.controller.php
+END
+adminlogging.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10951/trunk/modules/adminlogging/adminlogging.class.php
+END

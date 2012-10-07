@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/11226/trunk/modules/admin/tpl
+END
+layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11226/trunk/modules/admin/tpl/layout.html
+END
+_spShortcut.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11226/trunk/modules/admin/tpl/_spShortcut.html
+END
+config_ftp.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11226/trunk/modules/admin/tpl/config_ftp.html
+END
+_spFooter.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11226/trunk/modules/admin/tpl/_spFooter.html
+END
+config_general.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11226/trunk/modules/admin/tpl/config_general.html
+END
+theme.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10031/trunk/modules/admin/tpl/theme.html
+END
+_spLnb.content.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11226/trunk/modules/admin/tpl/_spLnb.content.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11226/trunk/modules/admin/tpl/index.html
+END
+admin_setup.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11226/trunk/modules/admin/tpl/admin_setup.html
+END
+_spHeader.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11226/trunk/modules/admin/tpl/_spHeader.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9867/trunk/modules/admin/tpl/filter
+END
+update_lang_select.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/admin/tpl/filter/update_lang_select.xml
+END
+install_ftp_info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/admin/tpl/filter/install_ftp_info.xml
+END
+install_ftp_path.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/admin/tpl/filter/install_ftp_path.xml
+END
+update_env_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/admin/tpl/filter/update_env_config.xml
+END

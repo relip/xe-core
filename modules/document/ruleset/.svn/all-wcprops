@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9867/trunk/modules/document/ruleset
+END
+insertExtraVar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/document/ruleset/insertExtraVar.xml
+END
+insertCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/document/ruleset/insertCategory.xml
+END
+deleteAlias.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/document/ruleset/deleteAlias.xml
+END
+insertAlias.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/document/ruleset/insertAlias.xml
+END

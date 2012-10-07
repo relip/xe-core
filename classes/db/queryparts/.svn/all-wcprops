@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10951/trunk/classes/db/queryparts
+END
+Query.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/Query.class.php
+END
+Subquery.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/Subquery.class.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/queryargument
+END
+QueryArgument.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/queryargument/QueryArgument.class.php
+END
+SortQueryArgument.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/queryargument/SortQueryArgument.class.php
+END
+DefaultValue.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/queryargument/DefaultValue.class.php
+END

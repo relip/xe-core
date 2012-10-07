@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/11226/trunk/modules/file/tpl
+END
+adminConfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11226/trunk/modules/file/tpl/adminConfig.html
+END
+print_uploaded_file_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/file/tpl/print_uploaded_file_list.html
+END
+iframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9867/trunk/modules/file/tpl/iframe.html
+END
+file_config.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10446/trunk/modules/file/tpl/file_config.html
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9867/trunk/modules/file/tpl/header.html
+END
+file_module_config.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/file/tpl/file_module_config.html
+END
+file_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10446/trunk/modules/file/tpl/file_list.html
+END

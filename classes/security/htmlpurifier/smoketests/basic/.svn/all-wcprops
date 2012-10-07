@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/basic
+END
+legacy.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/basic/legacy.html
+END
+allElements.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/basic/allElements.html
+END
+legacy.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/basic/legacy.css
+END
+allElements.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/smoketests/basic/allElements.css
+END

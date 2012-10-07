@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier
+END
+AttrDef.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef.php
+END
+DoctypeRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/DoctypeRegistry.php
+END
+Strategy.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Strategy.php
+END
+ChildDef.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ChildDef.php
+END
+DefinitionCacheFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/DefinitionCacheFactory.php
+END
+HTMLModuleManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/HTMLModuleManager.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Config.php
+END
+VarParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/VarParser.php
+END
+EntityLookup.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/EntityLookup.php
+END
+AttrTransform.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrTransform.php
+END
+UnitConverter.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/UnitConverter.php
+END
+URIDefinition.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URIDefinition.php
+END
+TokenFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/TokenFactory.php
+END
+ElementDef.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ElementDef.php
+END
+HTMLModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/HTMLModule.php
+END
+LanguageFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/LanguageFactory.php
+END
+Injector.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Injector.php
+END
+URISchemeRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URISchemeRegistry.php
+END
+PropertyList.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/PropertyList.php
+END
+Length.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Length.php
+END
+Language.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Language.php
+END
+Generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Generator.php
+END
+ConfigSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ConfigSchema.php
+END
+Definition.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Definition.php
+END
+EntityParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/EntityParser.php
+END
+PropertyListIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/PropertyListIterator.php
+END
+IDAccumulator.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/IDAccumulator.php
+END
+ErrorStruct.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ErrorStruct.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Exception.php
+END
+AttrTypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrTypes.php
+END
+URI.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URI.php
+END
+PercentEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/PercentEncoder.php
+END
+ErrorCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ErrorCollector.php
+END
+CSSDefinition.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/CSSDefinition.php
+END
+URIFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URIFilter.php
+END
+TagTransform.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/TagTransform.php
+END
+Doctype.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Doctype.php
+END
+ContentSets.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/ContentSets.php
+END
+AttrCollections.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrCollections.php
+END
+StringHash.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/StringHash.php
+END
+DefinitionCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/DefinitionCache.php
+END
+URIParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URIParser.php
+END
+HTMLDefinition.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/HTMLDefinition.php
+END
+Bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Bootstrap.php
+END
+Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Encoder.php
+END
+Lexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Lexer.php
+END
+Token.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Token.php
+END
+AttrValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrValidator.php
+END
+Printer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Printer.php
+END
+VarParserException.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/VarParserException.php
+END
+URIScheme.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URIScheme.php
+END
+Context.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Context.php
+END
+Filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/Filter.php
+END
+StringHashParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/StringHashParser.php
+END

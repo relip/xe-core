@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/11226/trunk/modules/autoinstall
+END
+autoinstall.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10951/trunk/modules/autoinstall/autoinstall.model.php
+END
+autoinstall.admin.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11226/trunk/modules/autoinstall/autoinstall.admin.view.php
+END
+autoinstall.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10951/trunk/modules/autoinstall/autoinstall.class.php
+END
+autoinstall.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10951/trunk/modules/autoinstall/autoinstall.lib.php
+END
+autoinstall.admin.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10951/trunk/modules/autoinstall/autoinstall.admin.controller.php
+END
+autoinstall.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10951/trunk/modules/autoinstall/autoinstall.view.php
+END

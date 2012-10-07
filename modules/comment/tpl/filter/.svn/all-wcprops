@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9867/trunk/modules/comment/tpl/filter
+END
+insert_comment_module_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9867/trunk/modules/comment/tpl/filter/insert_comment_module_config.xml
+END
+delete_checked.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/comment/tpl/filter/delete_checked.xml
+END

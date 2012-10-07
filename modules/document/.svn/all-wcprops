@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/11226/trunk/modules/document
+END
+document.item.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10951/trunk/modules/document/document.item.php
+END
+document.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11226/trunk/modules/document/document.model.php
+END
+document.admin.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10951/trunk/modules/document/document.admin.view.php
+END
+document.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11226/trunk/modules/document/document.controller.php
+END
+document.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10951/trunk/modules/document/document.class.php
+END
+document.admin.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10951/trunk/modules/document/document.admin.model.php
+END
+document.admin.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10951/trunk/modules/document/document.admin.controller.php
+END
+document.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10951/trunk/modules/document/document.view.php
+END

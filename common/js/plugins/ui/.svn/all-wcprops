@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10653/trunk/common/js/plugins/ui
+END
+jquery-ui.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10653/trunk/common/js/plugins/ui/jquery-ui.css
+END
+jquery-ui.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10653/trunk/common/js/plugins/ui/jquery-ui.min.js
+END
+jquery.ui.datepicker-ko.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10031/trunk/common/js/plugins/ui/jquery.ui.datepicker-ko.js
+END
+plugin.load
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9867/trunk/common/js/plugins/ui/plugin.load
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10466/trunk/tests/classes/db/db/xml_query/mssql
+END
+MssqlIndexHintTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mssql/MssqlIndexHintTest.php
+END
+MssqlSelectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mssql/MssqlSelectTest.php
+END
+MssqlUpdateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10466/trunk/tests/classes/db/db/xml_query/mssql/MssqlUpdateTest.php
+END
+MssqlSelectOnlineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mssql/MssqlSelectOnlineTest.php
+END
+MssqlUpdateOnlineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mssql/MssqlUpdateOnlineTest.php
+END

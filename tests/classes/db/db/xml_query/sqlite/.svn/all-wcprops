@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/sqlite
+END
+SqliteDeleteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/sqlite/SqliteDeleteTest.php
+END
+SqliteUpdateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/sqlite/SqliteUpdateTest.php
+END

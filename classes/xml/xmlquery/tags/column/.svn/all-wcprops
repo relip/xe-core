@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/column
+END
+InsertColumnTagWithoutArgument.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/column/InsertColumnTagWithoutArgument.class.php
+END
+ColumnTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/column/ColumnTag.class.php
+END
+SelectColumnTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/column/SelectColumnTag.class.php
+END
+UpdateColumnTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/column/UpdateColumnTag.class.php
+END
+SelectColumnsTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/column/SelectColumnsTag.class.php
+END
+InsertColumnTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/column/InsertColumnTag.class.php
+END
+UpdateColumnsTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/column/UpdateColumnsTag.class.php
+END
+InsertColumnsTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/column/InsertColumnsTag.class.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9867/trunk/modules/poll/schemas
+END
+poll_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9867/trunk/modules/poll/schemas/poll_item.xml
+END
+poll.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9867/trunk/modules/poll/schemas/poll.xml
+END
+poll_log.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9867/trunk/modules/poll/schemas/poll_log.xml
+END
+poll_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/poll/schemas/poll_title.xml
+END

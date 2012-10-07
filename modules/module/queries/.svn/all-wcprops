@@ -1,0 +1,611 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11226/trunk/modules/module/queries
+END
+deleteModuleFileBox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteModuleFileBox.xml
+END
+getLang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9867/trunk/modules/module/queries/getLang.xml
+END
+isExistsModuleName.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/queries/isExistsModuleName.xml
+END
+insertModuleExtend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertModuleExtend.xml
+END
+getModuleCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleCategory.xml
+END
+getModulePartConfigs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModulePartConfigs.xml
+END
+getTriggers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/module/queries/getTriggers.xml
+END
+updateModuleCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/module/queries/updateModuleCategory.xml
+END
+deleteModuleGrants.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteModuleGrants.xml
+END
+insertActionForward.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertActionForward.xml
+END
+deleteSite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteSite.xml
+END
+deleteAdminId.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteAdminId.xml
+END
+deleteModuleSkinVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteModuleSkinVars.xml
+END
+getDefaultMidInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/module/queries/getDefaultMidInfo.xml
+END
+getNonuniqueDomains.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/module/queries/getNonuniqueDomains.xml
+END
+getAdminSrls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/module/queries/getAdminSrls.xml
+END
+getModuleSites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleSites.xml
+END
+getModuleFileBox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleFileBox.xml
+END
+insertModuleConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertModuleConfig.xml
+END
+getPlanetGrants.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/module/queries/getPlanetGrants.xml
+END
+getTrigger.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/module/queries/getTrigger.xml
+END
+deleteLang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteLang.xml
+END
+deleteModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteModule.xml
+END
+getLangNameByValue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/queries/getLangNameByValue.xml
+END
+deleteAdminIds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteAdminIds.xml
+END
+getSiteInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/module/queries/getSiteInfo.xml
+END
+getModuleInfos.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleInfos.xml
+END
+getModulesInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModulesInfo.xml
+END
+getModuleExtraVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleExtraVars.xml
+END
+deleteActionForward.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteActionForward.xml
+END
+getMidInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/module/queries/getMidInfo.xml
+END
+deleteLangs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteLangs.xml
+END
+insertTrigger.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertTrigger.xml
+END
+insertSite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertSite.xml
+END
+getModuleSrlByMid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleSrlByMid.xml
+END
+insertModuleSkinVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertModuleSkinVars.xml
+END
+getModuleInfoByDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleInfoByDocument.xml
+END
+getModuleMobileSkinVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11226/trunk/modules/module/queries/getModuleMobileSkinVars.xml
+END
+getModuleCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleCount.xml
+END
+updateSkinAll.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11226/trunk/modules/module/queries/updateSkinAll.xml
+END
+getModuleListByInstance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10446/trunk/modules/module/queries/getModuleListByInstance.xml
+END
+updateModuleFileBox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/module/queries/updateModuleFileBox.xml
+END
+clearDefaultModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/queries/clearDefaultModule.xml
+END
+getActionForward.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/module/queries/getActionForward.xml
+END
+getModulePartConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModulePartConfig.xml
+END
+insertSiteAdmin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertSiteAdmin.xml
+END
+getActionForwardWithModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9867/trunk/modules/module/queries/getActionForwardWithModule.xml
+END
+getLangListByLangcode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/module/queries/getLangListByLangcode.xml
+END
+getAdminID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/module/queries/getAdminID.xml
+END
+getMidList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/module/queries/getMidList.xml
+END
+getModuleSkinVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleSkinVars.xml
+END
+insertLang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertLang.xml
+END
+updateSkinFixModules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/module/queries/updateSkinFixModules.xml
+END
+updateSite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/module/queries/updateSite.xml
+END
+isSiteAdmin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/module/queries/isSiteAdmin.xml
+END
+insertModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10446/trunk/modules/module/queries/insertModule.xml
+END
+insertModuleExtraVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertModuleExtraVars.xml
+END
+getModuleMidList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleMidList.xml
+END
+deleteLock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteLock.xml
+END
+getModuleSkinDotList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11226/trunk/modules/module/queries/getModuleSkinDotList.xml
+END
+updateModuleSite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/module/queries/updateModuleSite.xml
+END
+getSiteCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/module/queries/getSiteCount.xml
+END
+getLangList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/module/queries/getLangList.xml
+END
+updateModuleMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/module/queries/updateModuleMenu.xml
+END
+deleteModuleMobileSkinVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11226/trunk/modules/module/queries/deleteModuleMobileSkinVars.xml
+END
+getModuleInfoByModuleSrl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleInfoByModuleSrl.xml
+END
+deleteModulePartConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteModulePartConfig.xml
+END
+updateModuleLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/queries/updateModuleLayout.xml
+END
+deleteTrigger.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteTrigger.xml
+END
+getSiteByDomain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/module/queries/getSiteByDomain.xml
+END
+updateModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10446/trunk/modules/module/queries/updateModule.xml
+END
+getModuleFileBoxList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleFileBoxList.xml
+END
+getSiteModules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10951/trunk/modules/module/queries/getSiteModules.xml
+END
+getModuleExtend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleExtend.xml
+END
+getModuleAdmin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleAdmin.xml
+END
+deleteSiteAdmin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteSiteAdmin.xml
+END
+updateAllModuleSkinInSiteWithTheme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9867/trunk/modules/module/queries/updateAllModuleSkinInSiteWithTheme.xml
+END
+insertModuleGrant.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertModuleGrant.xml
+END
+deleteModuleCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteModuleCategory.xml
+END
+deleteModuleExtraVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteModuleExtraVars.xml
+END
+getLangListByName.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/module/queries/getLangListByName.xml
+END
+getModuleConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleConfig.xml
+END
+getSiteAdmin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/module/queries/getSiteAdmin.xml
+END
+getDefaultModules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/module/queries/getDefaultModules.xml
+END
+insertLock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertLock.xml
+END
+deleteModuleExtend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteModuleExtend.xml
+END
+insertModuleFileBox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertModuleFileBox.xml
+END
+insertModuleMobileSkinVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11226/trunk/modules/module/queries/insertModuleMobileSkinVars.xml
+END
+updateModuleInSites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/module/queries/updateModuleInSites.xml
+END
+insertModulePartConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertModulePartConfig.xml
+END
+isExistsSiteDomain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/queries/isExistsSiteDomain.xml
+END
+insertAdminId.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertAdminId.xml
+END
+getModuleCategories.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10951/trunk/modules/module/queries/getModuleCategories.xml
+END
+deleteModuleConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteModuleConfig.xml
+END
+getModulesByLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModulesByLayout.xml
+END
+getSiteInfoByDomain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/module/queries/getSiteInfoByDomain.xml
+END
+getSite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9867/trunk/modules/module/queries/getSite.xml
+END
+getModuleGrants.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/module/queries/getModuleGrants.xml
+END
+deleteLocksTimeoutPassed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/module/queries/deleteLocksTimeoutPassed.xml
+END
+insertModuleCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/module/queries/insertModuleCategory.xml
+END
+getAllSkinSetModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/module/queries/getAllSkinSetModule.xml
+END

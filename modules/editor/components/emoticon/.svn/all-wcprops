@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9867/trunk/modules/editor/components/emoticon
+END
+emoticon.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9867/trunk/modules/editor/components/emoticon/emoticon.class.php
+END
+info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/editor/components/emoticon/info.xml
+END
+icon.gif
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8204/trunk/modules/editor/components/emoticon/icon.gif
+END
+component_icon.gif
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8204/trunk/modules/editor/components/emoticon/component_icon.gif
+END

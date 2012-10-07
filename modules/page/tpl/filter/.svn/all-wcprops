@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9867/trunk/modules/page/tpl/filter
+END
+insert_page.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/page/tpl/filter/insert_page.xml
+END
+insert_outside.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/page/tpl/filter/insert_outside.xml
+END
+insert_article.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/page/tpl/filter/insert_article.xml
+END
+insert_mpage_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/page/tpl/filter/insert_mpage_content.xml
+END
+insert_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/page/tpl/filter/insert_config.xml
+END
+insert_page_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/page/tpl/filter/insert_page_content.xml
+END
+delete_page.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/page/tpl/filter/delete_page.xml
+END

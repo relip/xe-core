@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/plugins/phorum/settings
+END
+migrate-sigs.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/plugins/phorum/settings/migrate-sigs.php
+END
+migrate-sigs-form.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/plugins/phorum/settings/migrate-sigs-form.php
+END
+save.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/plugins/phorum/settings/save.php
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/plugins/phorum/settings/form.php
+END

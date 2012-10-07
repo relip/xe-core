@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/10951/trunk/modules/poll
+END
+poll.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9867/trunk/modules/poll/poll.class.php
+END
+poll.admin.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9867/trunk/modules/poll/poll.admin.model.php
+END
+poll.admin.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10951/trunk/modules/poll/poll.admin.controller.php
+END
+poll.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9867/trunk/modules/poll/poll.model.php
+END
+poll.admin.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9867/trunk/modules/poll/poll.admin.view.php
+END
+poll.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10951/trunk/modules/poll/poll.controller.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URIScheme
+END
+data.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URIScheme/data.php
+END
+ftp.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URIScheme/ftp.php
+END
+news.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URIScheme/news.php
+END
+http.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URIScheme/http.php
+END
+nntp.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URIScheme/nntp.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URIScheme/file.php
+END
+https.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URIScheme/https.php
+END
+mailto.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/URIScheme/mailto.php
+END

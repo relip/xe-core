@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/widgets/login_info/skins/xe_globalTwo/filter
+END
+openid_login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9867/trunk/widgets/login_info/skins/xe_globalTwo/filter/openid_login.xml
+END
+login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9867/trunk/widgets/login_info/skins/xe_globalTwo/filter/login.xml
+END
+logout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9867/trunk/widgets/login_info/skins/xe_globalTwo/filter/logout.xml
+END

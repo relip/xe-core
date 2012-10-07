@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9867/trunk/modules/poll/ruleset
+END
+poll.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9867/trunk/modules/poll/ruleset/poll.xml
+END
+deleteChecked.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/poll/ruleset/deleteChecked.xml
+END
+insertConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/poll/ruleset/insertConfig.xml
+END

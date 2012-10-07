@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/11226/trunk/common/js
+END
+x.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/9867/trunk/common/js/x.js
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/11226/trunk/common/js/common.js
+END
+x.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10446/trunk/common/js/x.min.js
+END
+html5.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10624/trunk/common/js/html5.js
+END
+js_app.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9867/trunk/common/js/js_app.js
+END
+xe.js
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/11226/trunk/common/js/xe.js
+END
+xml_handler.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10031/trunk/common/js/xml_handler.js
+END
+minify.ini
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9867/trunk/common/js/minify.ini
+END
+xe.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/11226/trunk/common/js/xe.min.js
+END
+jquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10653/trunk/common/js/jquery.js
+END
+xml_js_filter.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11226/trunk/common/js/xml_js_filter.js
+END
+jquery.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10653/trunk/common/js/jquery.min.js
+END
+xe.header.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/9867/trunk/common/js/xe.header.js
+END

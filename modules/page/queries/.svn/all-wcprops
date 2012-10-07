@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9867/trunk/modules/page/queries
+END
+insertPageType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/page/queries/insertPageType.xml
+END
+getArticlePageSrls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/page/queries/getArticlePageSrls.xml
+END
+updateAllOpage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/page/queries/updateAllOpage.xml
+END
+pageTypeNullCheck.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/page/queries/pageTypeNullCheck.xml
+END
+getPageList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/page/queries/getPageList.xml
+END
+pageTypeOpageCheck.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/page/queries/pageTypeOpageCheck.xml
+END
+updateSkinFix.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/page/queries/updateSkinFix.xml
+END

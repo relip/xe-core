@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/11226/trunk/common/tpl
+END
+refresh.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9867/trunk/common/tpl/refresh.html
+END
+popup_layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9867/trunk/common/tpl/popup_layout.html
+END
+default_layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9867/trunk/common/tpl/default_layout.html
+END
+redirect.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9867/trunk/common/tpl/redirect.html
+END
+mobile_layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11226/trunk/common/tpl/mobile_layout.html
+END
+common_layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11226/trunk/common/tpl/common_layout.html
+END

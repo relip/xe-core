@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator
+END
+connect_wrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/connect_wrapper.php
+END
+xml_update.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/xml_update.xsd
+END
+xml_delete.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/xml_delete.xsd
+END
+xml_colassign.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/xml_colassign.xsd
+END
+validate.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/validate.php
+END
+xml_insert_select.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/xml_insert_select.xsd
+END
+xml_insert.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/xml_insert.xsd
+END
+xml_query.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/xml_query.xsd
+END
+xml_create_table.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/xml_create_table.xsd
+END
+xml_select.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/xml_select.xsd
+END
+xml_datachange.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/xml_datachange.xsd
+END
+xml_insert_generic.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/xml_insert_generic.xsd
+END
+xsd_types.dia
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/xsd_types.dia
+END

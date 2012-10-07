@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10446/trunk/modules/point/queries
+END
+getMemberCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/point/queries/getMemberCount.xml
+END
+getPointCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/point/queries/getPointCount.xml
+END
+getMemberList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/point/queries/getMemberList.xml
+END
+getMemberListWithinGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/point/queries/getMemberListWithinGroup.xml
+END
+getCommentUsers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10446/trunk/modules/point/queries/getCommentUsers.xml
+END
+initMemberPoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/point/queries/initMemberPoint.xml
+END
+deleteMemberGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/point/queries/deleteMemberGroup.xml
+END
+getDocumentPoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/point/queries/getDocumentPoint.xml
+END
+getFilePoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/point/queries/getFilePoint.xml
+END
+getPoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10446/trunk/modules/point/queries/getPoint.xml
+END
+getCommentPoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10446/trunk/modules/point/queries/getCommentPoint.xml
+END
+updatePoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/point/queries/updatePoint.xml
+END
+getMemberGroupMember.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/point/queries/getMemberGroupMember.xml
+END
+insertPoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/point/queries/insertPoint.xml
+END

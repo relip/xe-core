@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading
+END
+auto-with-spl-autoload-default.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/auto-with-spl-autoload-default.phpt
+END
+_autoload.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/_autoload.inc
+END
+path-includes-autoload.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/path-includes-autoload.phpt
+END
+auto.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/auto.phpt
+END
+error-auto-with-spl-nonstatic-autoload.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/error-auto-with-spl-nonstatic-autoload.phpt
+END
+auto-without-spl-autoload.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/auto-without-spl-autoload.phpt
+END
+auto-includes.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/auto-includes.phpt
+END
+_no-autoload.inc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/_no-autoload.inc
+END
+safe-includes.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/safe-includes.phpt
+END
+auto-with-spl-autoload.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/auto-with-spl-autoload.phpt
+END
+auto-without-spl-with-autoload.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/auto-without-spl-with-autoload.phpt
+END
+auto-with-autoload.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/auto-with-autoload.phpt
+END
+standalone.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/standalone.phpt
+END
+standalone-with-prefix.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/standalone-with-prefix.phpt
+END
+standalone-autoload.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/standalone-autoload.phpt
+END
+path-includes.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/PHPT/loading/path-includes.phpt
+END

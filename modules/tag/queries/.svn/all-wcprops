@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9867/trunk/modules/tag/queries
+END
+getAllTagList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/tag/queries/getAllTagList.xml
+END
+insertTag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9867/trunk/modules/tag/queries/insertTag.xml
+END
+updateTagModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/tag/queries/updateTagModule.xml
+END
+deleteTagByTag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/tag/queries/deleteTagByTag.xml
+END
+getDocumentSrlByTag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/tag/queries/getDocumentSrlByTag.xml
+END
+deleteModuleTags.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/tag/queries/deleteModuleTags.xml
+END
+getTagList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9867/trunk/modules/tag/queries/getTagList.xml
+END
+getDocumentsTagList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/tag/queries/getDocumentsTagList.xml
+END
+deleteTag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9867/trunk/modules/tag/queries/deleteTag.xml
+END

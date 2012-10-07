@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11226/trunk/modules/autoinstall/tpl
+END
+category.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10031/trunk/modules/autoinstall/tpl/category.html
+END
+install.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11226/trunk/modules/autoinstall/tpl/install.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10446/trunk/modules/autoinstall/tpl/index.html
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/autoinstall/tpl/header.html
+END
+uninstall.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10446/trunk/modules/autoinstall/tpl/uninstall.html
+END
+list.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10446/trunk/modules/autoinstall/tpl/list.html
+END

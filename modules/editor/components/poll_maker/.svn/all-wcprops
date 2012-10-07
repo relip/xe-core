@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/editor/components/poll_maker
+END
+poll_maker.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9867/trunk/modules/editor/components/poll_maker/poll_maker.class.php
+END
+info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/editor/components/poll_maker/info.xml
+END
+icon.gif
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8204/trunk/modules/editor/components/poll_maker/icon.gif
+END
+component_icon.gif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8204/trunk/modules/editor/components/poll_maker/component_icon.gif
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/table
+END
+MssqlTableWithHint.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/table/MssqlTableWithHint.class.php
+END
+Table.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/table/Table.class.php
+END
+JoinTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/table/JoinTable.class.php
+END
+IndexHint.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/table/IndexHint.class.php
+END
+MysqlTableWithHint.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/table/MysqlTableWithHint.class.php
+END
+CubridTableWithHint.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/table/CubridTableWithHint.class.php
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/11226/trunk/modules/layout/tpl
+END
+faceOff_sample.tar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8204/trunk/modules/layout/tpl/faceOff_sample.tar
+END
+include.multilang.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10446/trunk/modules/layout/tpl/include.multilang.html
+END
+layout_preview.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/layout/tpl/layout_preview.html
+END
+sub_tab.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11226/trunk/modules/layout/tpl/sub_tab.html
+END
+top_refresh.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/layout/tpl/top_refresh.html
+END
+layout_edit.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10446/trunk/modules/layout/tpl/layout_edit.html
+END
+about_faceoff.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/layout/tpl/about_faceoff.html
+END
+layout_all_instance_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11226/trunk/modules/layout/tpl/layout_all_instance_list.html
+END
+layout_modify.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11226/trunk/modules/layout/tpl/layout_modify.html
+END
+mindex.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9867/trunk/modules/layout/tpl/mindex.html
+END
+downloaded_mlayout_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/layout/tpl/downloaded_mlayout_list.html
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9867/trunk/modules/layout/tpl/header.html
+END
+include.multilang.textarea.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10446/trunk/modules/layout/tpl/include.multilang.textarea.html
+END
+faceoff_layout_edit.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/layout/tpl/faceoff_layout_edit.html
+END
+after_upload_config_image.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11226/trunk/modules/layout/tpl/after_upload_config_image.html
+END
+layout_instance_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11226/trunk/modules/layout/tpl/layout_instance_list.html
+END
+insert_layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/layout/tpl/insert_layout.html
+END
+copy_layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11226/trunk/modules/layout/tpl/copy_layout.html
+END
+installed_layout_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10951/trunk/modules/layout/tpl/installed_layout_list.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10446/trunk/modules/layout/tpl/index.html
+END
+downloaded_layout_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11226/trunk/modules/layout/tpl/downloaded_layout_list.html
+END
+after_delete_config_image.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11226/trunk/modules/layout/tpl/after_delete_config_image.html
+END
+faceoff_layout_menu.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/layout/tpl/faceoff_layout_menu.html
+END
+layout_image_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/layout/tpl/layout_image_list.html
+END
+layout_detail_info.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/layout/tpl/layout_detail_info.html
+END

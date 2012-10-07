@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransform
+END
+BorderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransform/BorderTest.php
+END
+ImgRequiredTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransform/ImgRequiredTest.php
+END
+NameSyncTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransform/NameSyncTest.php
+END
+InputTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransform/InputTest.php
+END
+BackgroundTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransform/BackgroundTest.php
+END
+EnumToCSSTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransform/EnumToCSSTest.php
+END
+NameTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransform/NameTest.php
+END
+LangTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransform/LangTest.php
+END
+LengthTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransform/LengthTest.php
+END
+BdoDirTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransform/BdoDirTest.php
+END
+BgColorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransform/BgColorTest.php
+END
+BoolToCSSTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransform/BoolToCSSTest.php
+END
+ImgSpaceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrTransform/ImgSpaceTest.php
+END

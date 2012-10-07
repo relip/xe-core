@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML
+END
+BoolTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/BoolTest.php
+END
+MultiLengthTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/MultiLengthTest.php
+END
+IDTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/IDTest.php
+END
+NmtokensTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/NmtokensTest.php
+END
+ColorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/ColorTest.php
+END
+LengthTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/LengthTest.php
+END
+FrameTargetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/FrameTargetTest.php
+END
+LinkTypesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/LinkTypesTest.php
+END
+PixelsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/PixelsTest.php
+END
+ClassTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/AttrDef/HTML/ClassTest.php
+END

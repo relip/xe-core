@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9867/trunk/modules/addon/tpl/filter
+END
+setup_addon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/addon/tpl/filter/setup_addon.xml
+END
+toggle_activate_addon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/addon/tpl/filter/toggle_activate_addon.xml
+END

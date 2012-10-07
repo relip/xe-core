@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/9867/trunk/modules/admin/queries
+END
+getMemberCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getMemberCount.xml
+END
+getVisitors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getVisitors.xml
+END
+getDocumentStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getDocumentStatus.xml
+END
+getFileStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getFileStatus.xml
+END
+getTotalVisitors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getTotalVisitors.xml
+END
+getDocumentCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getDocumentCount.xml
+END
+getFileCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getFileCount.xml
+END
+getSiteAllList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getSiteAllList.xml
+END
+getTrackbackStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getTrackbackStatus.xml
+END
+getCommentDeclaredStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getCommentDeclaredStatus.xml
+END
+deleteAllFavorite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/admin/queries/deleteAllFavorite.xml
+END
+getTrackbackCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getTrackbackCount.xml
+END
+getTodayTrackbackCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getTodayTrackbackCount.xml
+END
+getCommentDeclaredCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getCommentDeclaredCount.xml
+END
+deleteFavorite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/admin/queries/deleteFavorite.xml
+END
+insertFavorite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/admin/queries/insertFavorite.xml
+END
+getDocumentDeclaredStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getDocumentDeclaredStatus.xml
+END
+getSiteCountByDate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getSiteCountByDate.xml
+END
+getCommentStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getCommentStatus.xml
+END
+getSiteVisitors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getSiteVisitors.xml
+END
+getDocumentDeclaredCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getDocumentDeclaredCount.xml
+END
+getFavoriteList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getFavoriteList.xml
+END
+getMemberStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getMemberStatus.xml
+END
+getCommentCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getCommentCount.xml
+END
+getTotalSiteVisitors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getTotalSiteVisitors.xml
+END
+getTodayCommentCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getTodayCommentCount.xml
+END
+getFavorite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/admin/queries/getFavorite.xml
+END

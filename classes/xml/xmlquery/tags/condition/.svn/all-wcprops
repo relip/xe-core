@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11226/trunk/classes/xml/xmlquery/tags/condition
+END
+ConditionsTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/condition/ConditionsTag.class.php
+END
+JoinConditionsTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/condition/JoinConditionsTag.class.php
+END
+ConditionGroupTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/tags/condition/ConditionGroupTag.class.php
+END
+ConditionTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11226/trunk/classes/xml/xmlquery/tags/condition/ConditionTag.class.php
+END

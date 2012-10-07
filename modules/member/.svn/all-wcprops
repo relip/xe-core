@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/11226/trunk/modules/member
+END
+member.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11226/trunk/modules/member/member.controller.php
+END
+member.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11226/trunk/modules/member/member.class.php
+END
+member.admin.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10951/trunk/modules/member/member.admin.model.php
+END
+member.mobile.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11226/trunk/modules/member/member.mobile.php
+END
+member.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10951/trunk/modules/member/member.api.php
+END
+member.admin.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11226/trunk/modules/member/member.admin.controller.php
+END
+member.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11226/trunk/modules/member/member.view.php
+END
+member.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11226/trunk/modules/member/member.model.php
+END
+member.admin.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11226/trunk/modules/member/member.admin.view.php
+END

@@ -1,0 +1,635 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11226/trunk/modules/document/queries
+END
+getDocumentCountByDate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDocumentCountByDate.xml
+END
+insertDocumentExtraVar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/document/queries/insertDocumentExtraVar.xml
+END
+updateCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10446/trunk/modules/document/queries/updateCategory.xml
+END
+updateDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10674/trunk/modules/document/queries/updateDocument.xml
+END
+getDocumentDivisionUseIndex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10674/trunk/modules/document/queries/getDocumentDivisionUseIndex.xml
+END
+updateDocumentExtraVar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDocumentExtraVar.xml
+END
+updateDocumentsLangCode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDocumentsLangCode.xml
+END
+getDocuments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDocuments.xml
+END
+getHistory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/document/queries/getHistory.xml
+END
+updateDocumentExtraVarIdx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDocumentExtraVarIdx.xml
+END
+getDocumentListWithExtraVarsPage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11226/trunk/modules/document/queries/getDocumentListWithExtraVarsPage.xml
+END
+getDocumentListPage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11226/trunk/modules/document/queries/getDocumentListPage.xml
+END
+updateDocumentOrder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDocumentOrder.xml
+END
+getTrashList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10446/trunk/modules/document/queries/getTrashList.xml
+END
+updateCommentCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateCommentCount.xml
+END
+insertAlias.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/document/queries/insertAlias.xml
+END
+getGroupsExtraKeys.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/document/queries/getGroupsExtraKeys.xml
+END
+updateDocumentExtraVarEid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDocumentExtraVarEid.xml
+END
+getDocumentListWithinMember.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10446/trunk/modules/document/queries/getDocumentListWithinMember.xml
+END
+insertHistory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/document/queries/insertHistory.xml
+END
+insertDeclaredDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/document/queries/insertDeclaredDocument.xml
+END
+getDocumentListWithinTag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11226/trunk/modules/document/queries/getDocumentListWithinTag.xml
+END
+insertDocumentDeclaredLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9867/trunk/modules/document/queries/insertDocumentDeclaredLog.xml
+END
+getMonthlyArchivedList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/document/queries/getMonthlyArchivedList.xml
+END
+updateDocumentsAllowCommentTrackback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDocumentsAllowCommentTrackback.xml
+END
+updateVotedCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateVotedCount.xml
+END
+updateDocumentExtraKeyIdxOrder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10446/trunk/modules/document/queries/updateDocumentExtraKeyIdxOrder.xml
+END
+updateDocumentTags.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDocumentTags.xml
+END
+updateReadedCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateReadedCount.xml
+END
+deleteDocumentExtraVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/document/queries/deleteDocumentExtraVars.xml
+END
+getAllModules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/document/queries/getAllModules.xml
+END
+getDocumentReadedLogInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDocumentReadedLogInfo.xml
+END
+updateTrackbackCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateTrackbackCount.xml
+END
+getDocumentCountByGroupStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10446/trunk/modules/document/queries/getDocumentCountByGroupStatus.xml
+END
+getDocumentSrlByAlias.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDocumentSrlByAlias.xml
+END
+getDailyArchivedList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDailyArchivedList.xml
+END
+updateDeclaredDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDeclaredDocument.xml
+END
+insertTrash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/document/queries/insertTrash.xml
+END
+updateDocumentCommentStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDocumentCommentStatus.xml
+END
+deleteDeclaredDocuments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/document/queries/deleteDeclaredDocuments.xml
+END
+deleteAlias.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/document/queries/deleteAlias.xml
+END
+getCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/document/queries/getCategory.xml
+END
+getDocumentExtraVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDocumentExtraVars.xml
+END
+getDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDocument.xml
+END
+updateDocumentCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDocumentCategory.xml
+END
+getDocumentListUseIndex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10674/trunk/modules/document/queries/getDocumentListUseIndex.xml
+END
+getDocumentDeclaredLogInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDocumentDeclaredLogInfo.xml
+END
+getDocumentListWithinComment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10446/trunk/modules/document/queries/getDocumentListWithinComment.xml
+END
+insertDocumentExtraKey.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/document/queries/insertDocumentExtraKey.xml
+END
+getAliases.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/document/queries/getAliases.xml
+END
+getDocumentDivision.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDocumentDivision.xml
+END
+deleteHistory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/document/queries/deleteHistory.xml
+END
+getCategoryDocumentCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9867/trunk/modules/document/queries/getCategoryDocumentCount.xml
+END
+getDocumentListWithinTagPage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11226/trunk/modules/document/queries/getDocumentListWithinTagPage.xml
+END
+deleteDeclared.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/document/queries/deleteDeclared.xml
+END
+getDocumentCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10446/trunk/modules/document/queries/getDocumentCount.xml
+END
+deleteDocumentDeclaredLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9867/trunk/modules/document/queries/deleteDocumentDeclaredLog.xml
+END
+getDocumentExtraVarsCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11226/trunk/modules/document/queries/getDocumentExtraVarsCount.xml
+END
+updateDocumentModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDocumentModule.xml
+END
+updateCategoryCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateCategoryCount.xml
+END
+getChildCategoryCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/document/queries/getChildCategoryCount.xml
+END
+getDocumentSrlByTitle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10039/trunk/modules/document/queries/getDocumentSrlByTitle.xml
+END
+getTrashByDocumentSrl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/document/queries/getTrashByDocumentSrl.xml
+END
+updateDocumentExtraKey.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10446/trunk/modules/document/queries/updateDocumentExtraKey.xml
+END
+deleteCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/document/queries/deleteCategory.xml
+END
+deleteDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10674/trunk/modules/document/queries/deleteDocument.xml
+END
+updateDocumentExtraKeyIdx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDocumentExtraKeyIdx.xml
+END
+deleteTrash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/document/queries/deleteTrash.xml
+END
+deleteDocumentVotedLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/document/queries/deleteDocumentVotedLog.xml
+END
+getDocumentMaxExtraKeyIdx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDocumentMaxExtraKeyIdx.xml
+END
+deleteModuleCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/document/queries/deleteModuleCategory.xml
+END
+deleteModuleDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/document/queries/deleteModuleDocument.xml
+END
+insertDocumentReadedLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/document/queries/insertDocumentReadedLog.xml
+END
+getDocumentListWithinCommentPage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11226/trunk/modules/document/queries/getDocumentListWithinCommentPage.xml
+END
+getGroupsExtraVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/document/queries/getGroupsExtraVars.xml
+END
+updateDocumentExtraKeyEid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDocumentExtraKeyEid.xml
+END
+getChildCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/document/queries/getChildCategory.xml
+END
+getTrash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/document/queries/getTrash.xml
+END
+updateDocumentStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDocumentStatus.xml
+END
+getDocumentListExtraSort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10446/trunk/modules/document/queries/getDocumentListExtraSort.xml
+END
+isExistsExtraKey.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/document/queries/isExistsExtraKey.xml
+END
+getDocumentDivisionCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDocumentDivisionCount.xml
+END
+getDocumentTags.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDocumentTags.xml
+END
+getDocumentVotedLogInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDocumentVotedLogInfo.xml
+END
+getDeclaredList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDeclaredList.xml
+END
+updateDocumentExtraVarIdxOrder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10446/trunk/modules/document/queries/updateDocumentExtraVarIdxOrder.xml
+END
+updateBlamedCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateBlamedCount.xml
+END
+deleteDocumentExtraKeys.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/document/queries/deleteDocumentExtraKeys.xml
+END
+getDocumentsExtraVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDocumentsExtraVars.xml
+END
+insertCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/document/queries/insertCategory.xml
+END
+getDeclaredDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDeclaredDocument.xml
+END
+insertDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10951/trunk/modules/document/queries/insertDocument.xml
+END
+getVotedMemberList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/document/queries/getVotedMemberList.xml
+END
+getDocumentListWithExtraVars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10951/trunk/modules/document/queries/getDocumentListWithExtraVars.xml
+END
+insertDocumentVotedLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/document/queries/insertDocumentVotedLog.xml
+END
+deleteDocumentReadedLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/document/queries/deleteDocumentReadedLog.xml
+END
+getCategoryList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/document/queries/getCategoryList.xml
+END
+getHistories.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/document/queries/getHistories.xml
+END
+updateDocumentsSecret.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateDocumentsSecret.xml
+END
+getDocumentList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10446/trunk/modules/document/queries/getDocumentList.xml
+END
+updateCategoryOrder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/document/queries/updateCategoryOrder.xml
+END
+getChildCategoryMinListOrder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9867/trunk/modules/document/queries/getChildCategoryMinListOrder.xml
+END
+getDocumentTranslationLangCodes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10446/trunk/modules/document/queries/getDocumentTranslationLangCodes.xml
+END
+getNoticeList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/document/queries/getNoticeList.xml
+END
+getDocumentExtraKeys.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/document/queries/getDocumentExtraKeys.xml
+END

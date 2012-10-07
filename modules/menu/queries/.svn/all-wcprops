@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9867/trunk/modules/menu/queries
+END
+getChildMenuCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/menu/queries/getChildMenuCount.xml
+END
+getMenuItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/menu/queries/getMenuItem.xml
+END
+deleteMenuLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/menu/queries/deleteMenuLayout.xml
+END
+updateMenuItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/menu/queries/updateMenuItem.xml
+END
+getMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9867/trunk/modules/menu/queries/getMenus.xml
+END
+insertMenuLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/menu/queries/insertMenuLayout.xml
+END
+deleteMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/menu/queries/deleteMenu.xml
+END
+insertMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/menu/queries/insertMenu.xml
+END
+deleteMenuItems.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/menu/queries/deleteMenuItems.xml
+END
+updateMenuItemNode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/menu/queries/updateMenuItemNode.xml
+END
+getMenuList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/menu/queries/getMenuList.xml
+END
+updateMenuItemParent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/menu/queries/updateMenuItemParent.xml
+END
+getMenuByTitle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/menu/queries/getMenuByTitle.xml
+END
+getMenuLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/menu/queries/getMenuLayout.xml
+END
+getMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9867/trunk/modules/menu/queries/getMenu.xml
+END
+getMenuItems.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/menu/queries/getMenuItems.xml
+END
+deleteMenuItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/menu/queries/deleteMenuItem.xml
+END
+updateMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/menu/queries/updateMenu.xml
+END
+insertMenuItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/menu/queries/insertMenuItem.xml
+END
+getMinListorder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/menu/queries/getMinListorder.xml
+END
+getMaxListorder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/menu/queries/getMaxListorder.xml
+END
+updateMenuItemListorder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/menu/queries/updateMenuItemListorder.xml
+END

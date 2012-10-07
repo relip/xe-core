@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/11226/trunk/classes/xml/xmlquery
+END
+QueryParser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/QueryParser.class.php
+END
+DBParser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10951/trunk/classes/xml/xmlquery/DBParser.class.php
+END

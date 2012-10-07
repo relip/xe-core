@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/sqlite/data
+END
+module.deleteModuleConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/sqlite/data/module.deleteModuleConfig.xml
+END
+member.updateLastLogin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/sqlite/data/member.updateLastLogin.xml
+END

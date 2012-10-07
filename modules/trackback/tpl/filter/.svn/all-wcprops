@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9867/trunk/modules/trackback/tpl/filter
+END
+insert_trackback_module_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9867/trunk/modules/trackback/tpl/filter/insert_trackback_module_config.xml
+END
+delete_checked.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/trackback/tpl/filter/delete_checked.xml
+END
+insert_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/trackback/tpl/filter/insert_config.xml
+END
+send_trackback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/trackback/tpl/filter/send_trackback.xml
+END

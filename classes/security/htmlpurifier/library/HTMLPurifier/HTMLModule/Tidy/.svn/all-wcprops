@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/HTMLModule/Tidy
+END
+XHTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/HTMLModule/Tidy/XHTML.php
+END
+Name.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/HTMLModule/Tidy/Name.php
+END
+Proprietary.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/HTMLModule/Tidy/Proprietary.php
+END
+Transitional.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/HTMLModule/Tidy/Transitional.php
+END
+XHTMLAndHTML4.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/HTMLModule/Tidy/XHTMLAndHTML4.php
+END
+Strict.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/HTMLModule/Tidy/Strict.php
+END

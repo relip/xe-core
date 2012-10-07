@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11226/trunk/modules/layout/queries
+END
+deleteLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/layout/queries/deleteLayout.xml
+END
+getLayoutDotList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11226/trunk/modules/layout/queries/getLayoutDotList.xml
+END
+updateLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/layout/queries/updateLayout.xml
+END
+insertLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/layout/queries/insertLayout.xml
+END
+updateModuleMLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/layout/queries/updateModuleMLayout.xml
+END
+updateAllLayoutInSiteWithTheme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9867/trunk/modules/layout/queries/updateAllLayoutInSiteWithTheme.xml
+END
+updateModuleLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/layout/queries/updateModuleLayout.xml
+END
+getLayoutModules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/layout/queries/getLayoutModules.xml
+END
+getLayoutList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/layout/queries/getLayoutList.xml
+END
+getLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/layout/queries/getLayout.xml
+END

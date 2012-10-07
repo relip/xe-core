@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10624/trunk/modules/rss/tpl
+END
+top_refresh.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9867/trunk/modules/rss/tpl/top_refresh.html
+END
+rss_module_config.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10446/trunk/modules/rss/tpl/rss_module_config.html
+END
+atom10.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10446/trunk/modules/rss/tpl/atom10.html
+END
+xe_rss.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9867/trunk/modules/rss/tpl/xe_rss.html
+END
+display.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9867/trunk/modules/rss/tpl/display.html
+END
+rss_admin_index.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10624/trunk/modules/rss/tpl/rss_admin_index.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10446/trunk/modules/rss/tpl/index.html
+END
+rss10.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9867/trunk/modules/rss/tpl/rss10.html
+END
+rss20.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10446/trunk/modules/rss/tpl/rss20.html
+END

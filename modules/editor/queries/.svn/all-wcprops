@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/9867/trunk/modules/editor/queries
+END
+getSavedDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/editor/queries/getSavedDocument.xml
+END
+isSiteComponentInserted.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/editor/queries/isSiteComponentInserted.xml
+END
+getComponent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/editor/queries/getComponent.xml
+END
+getSiteComponentList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/editor/queries/getSiteComponentList.xml
+END
+updateComponent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/editor/queries/updateComponent.xml
+END
+getSiteComponent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/editor/queries/getSiteComponent.xml
+END
+insertComponent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/editor/queries/insertComponent.xml
+END
+updateSiteComponent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/editor/queries/updateSiteComponent.xml
+END
+deleteSiteComponent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/editor/queries/deleteSiteComponent.xml
+END
+deleteSavedDoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/editor/queries/deleteSavedDoc.xml
+END
+insertSiteComponent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/editor/queries/insertSiteComponent.xml
+END
+isComponentInserted.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/editor/queries/isComponentInserted.xml
+END
+insertSavedDoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/editor/queries/insertSavedDoc.xml
+END
+getComponentList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/editor/queries/getComponentList.xml
+END

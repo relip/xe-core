@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/11226/trunk/modules/addon
+END
+addon.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10951/trunk/modules/addon/addon.class.php
+END
+addon.admin.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11226/trunk/modules/addon/addon.admin.model.php
+END
+addon.admin.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10951/trunk/modules/addon/addon.admin.controller.php
+END
+addon.admin.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10951/trunk/modules/addon/addon.admin.view.php
+END
+addon.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11226/trunk/modules/addon/addon.controller.php
+END

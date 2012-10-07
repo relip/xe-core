@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9867/trunk/modules/spamfilter/queries
+END
+getDeniedWordList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/spamfilter/queries/getDeniedWordList.xml
+END
+deleteDeniedIP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/spamfilter/queries/deleteDeniedIP.xml
+END
+insertDeniedIP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/spamfilter/queries/insertDeniedIP.xml
+END
+insertLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/spamfilter/queries/insertLog.xml
+END
+deleteDeniedWord.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/spamfilter/queries/deleteDeniedWord.xml
+END
+insertDeniedWord.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/spamfilter/queries/insertDeniedWord.xml
+END
+getLogCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/spamfilter/queries/getLogCount.xml
+END
+updateDeniedWordHit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/spamfilter/queries/updateDeniedWordHit.xml
+END
+isDeniedIP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/spamfilter/queries/isDeniedIP.xml
+END
+getDeniedIPList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/spamfilter/queries/getDeniedIPList.xml
+END

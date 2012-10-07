@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10446/trunk/themes/xe_solid_enterprise/modules/communication
+END
+send_message.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10446/trunk/themes/xe_solid_enterprise/modules/communication/send_message.html
+END
+new_message.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/communication/new_message.html
+END
+add_friend.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/communication/add_friend.html
+END
+skin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/communication/skin.xml
+END
+common_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/communication/common_header.html
+END
+thumbnail.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/communication/thumbnail.png
+END
+common_footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/communication/common_footer.html
+END
+messages.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9867/trunk/themes/xe_solid_enterprise/modules/communication/messages.html
+END
+friends.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10446/trunk/themes/xe_solid_enterprise/modules/communication/friends.html
+END
+add_friend_group.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10446/trunk/themes/xe_solid_enterprise/modules/communication/add_friend_group.html
+END

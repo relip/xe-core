@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data
+END
+update.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/update.xml
+END
+duplicateColumnsInSelect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/duplicateColumnsInSelect.xml
+END
+dupPage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/dupPage.xml
+END
+checkMissingPipe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/checkMissingPipe.xml
+END
+emptyTableSubquery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/emptyTableSubquery.xml
+END
+tableSubquery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/tableSubquery.xml
+END
+joinedTableCondition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/joinedTableCondition.xml
+END
+joinedSubquery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/joinedSubquery.xml
+END
+dupTblName.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/dupTblName.xml
+END
+namedTableSubquery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/namedTableSubquery.xml
+END
+dupListCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/dupListCount.xml
+END
+dupPageCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/dupPageCount.xml
+END
+unnamedTableSubquery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/unnamedTableSubquery.xml
+END
+wrongQueryId.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/wrongQueryId.xml
+END

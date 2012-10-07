@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9867/trunk/modules/rss/ruleset
+END
+insertRssConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/rss/ruleset/insertRssConfig.xml
+END
+insertRssModuleConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/rss/ruleset/insertRssModuleConfig.xml
+END

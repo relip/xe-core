@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/DefinitionCache/Decorator
+END
+CleanupTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/DefinitionCache/Decorator/CleanupTest.php
+END
+MemoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/DefinitionCache/Decorator/MemoryTest.php
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11226/trunk/modules/importer/queries
+END
+updateDocumentSyncByEmail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11226/trunk/modules/importer/queries/updateDocumentSyncByEmail.xml
+END
+updateDocumentSyncForCUBRIDByEmail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11226/trunk/modules/importer/queries/updateDocumentSyncForCUBRIDByEmail.xml
+END
+updateCommentSync.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/importer/queries/updateCommentSync.xml
+END
+updateCommentSyncForCUBRID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9867/trunk/modules/importer/queries/updateCommentSyncForCUBRID.xml
+END
+getDocumentMemberSrlWithUserIDByEmail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11226/trunk/modules/importer/queries/getDocumentMemberSrlWithUserIDByEmail.xml
+END
+getCommentMemberSrlWithUserID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9867/trunk/modules/importer/queries/getCommentMemberSrlWithUserID.xml
+END
+updateCommentSyncByEmail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11226/trunk/modules/importer/queries/updateCommentSyncByEmail.xml
+END
+updateCommentSyncForCUBRIDByEmail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11226/trunk/modules/importer/queries/updateCommentSyncForCUBRIDByEmail.xml
+END
+getCommentMemberSrlWithUserIDByEmail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11226/trunk/modules/importer/queries/getCommentMemberSrlWithUserIDByEmail.xml
+END
+updateDocumentSync.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/importer/queries/updateDocumentSync.xml
+END
+updateDocumentSyncForCUBRID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9867/trunk/modules/importer/queries/updateDocumentSyncForCUBRID.xml
+END
+getDocumentMemberSrlWithUserID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9867/trunk/modules/importer/queries/getDocumentMemberSrlWithUserID.xml
+END

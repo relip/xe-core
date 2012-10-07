@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9867/trunk/tests/classes/db/classes/xml/xmlquery/tags/table/data
+END
+table_name_alias.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9867/trunk/tests/classes/db/classes/xml/xmlquery/tags/table/data/table_name_alias.xml
+END
+table_name_alias_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9867/trunk/tests/classes/db/classes/xml/xmlquery/tags/table/data/table_name_alias_type.xml
+END
+tables_one_table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9867/trunk/tests/classes/db/classes/xml/xmlquery/tags/table/data/tables_one_table.xml
+END
+tables_two_tables_with_join.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9867/trunk/tests/classes/db/classes/xml/xmlquery/tags/table/data/tables_two_tables_with_join.xml
+END
+table_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9867/trunk/tests/classes/db/classes/xml/xmlquery/tags/table/data/table_name.xml
+END
+tables_two_tables_no_join.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9867/trunk/tests/classes/db/classes/xml/xmlquery/tags/table/data/tables_two_tables_no_join.xml
+END

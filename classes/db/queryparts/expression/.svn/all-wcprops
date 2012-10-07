@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/expression
+END
+StarExpression.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/expression/StarExpression.class.php
+END
+UpdateExpressionWithoutArgument.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/expression/UpdateExpressionWithoutArgument.class.php
+END
+ClickCountExpression.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/expression/ClickCountExpression.class.php
+END
+SelectExpression.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/expression/SelectExpression.class.php
+END
+Expression.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/expression/Expression.class.php
+END
+UpdateExpression.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/expression/UpdateExpression.class.php
+END
+DeleteExpression.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/expression/DeleteExpression.class.php
+END
+InsertExpression.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10951/trunk/classes/db/queryparts/expression/InsertExpression.class.php
+END

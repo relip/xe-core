@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9867/trunk/modules/trackback/queries
+END
+getTrackbackList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/trackback/queries/getTrackbackList.xml
+END
+deleteModuleTrackbacks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/trackback/queries/deleteModuleTrackbacks.xml
+END
+getTrackback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/trackback/queries/getTrackback.xml
+END
+getTotalTrackbackList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/trackback/queries/getTotalTrackbackList.xml
+END
+getNewestTrackbackList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/trackback/queries/getNewestTrackbackList.xml
+END
+deleteTrackback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/trackback/queries/deleteTrackback.xml
+END
+getTrackbackCountByIPAddress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9867/trunk/modules/trackback/queries/getTrackbackCountByIPAddress.xml
+END
+insertTrackback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/trackback/queries/insertTrackback.xml
+END
+deleteTrackbacks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/trackback/queries/deleteTrackbacks.xml
+END
+getRegistedTrackback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/trackback/queries/getRegistedTrackback.xml
+END
+updateTrackbackModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/trackback/queries/updateTrackbackModule.xml
+END
+getTrackbackCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/trackback/queries/getTrackbackCount.xml
+END
+getRegistedTrackbacks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/trackback/queries/getRegistedTrackbacks.xml
+END

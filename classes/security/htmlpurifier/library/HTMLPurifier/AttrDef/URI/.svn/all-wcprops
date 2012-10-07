@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/URI
+END
+Host.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/URI/Host.php
+END
+IPv4.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/URI/IPv4.php
+END
+IPv6.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/URI/IPv6.php
+END
+Email.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/URI/Email.php
+END

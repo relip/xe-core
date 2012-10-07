@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/9867/trunk/modules/trash/queries
+END
+getTrash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9867/trunk/modules/trash/queries/getTrash.xml
+END
+deleteTrash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/trash/queries/deleteTrash.xml
+END
+insertTrash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/trash/queries/insertTrash.xml
+END
+getTrashList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/trash/queries/getTrashList.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10446/trunk/modules/editor/tpl/js
+END
+swfupload.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9867/trunk/modules/editor/tpl/js/swfupload.js
+END
+editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10031/trunk/modules/editor/tpl/js/editor.js
+END
+uploader.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10446/trunk/modules/editor/tpl/js/uploader.js
+END
+editor_common.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10446/trunk/modules/editor/tpl/js/editor_common.js
+END
+editor_admin.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/editor/tpl/js/editor_admin.js
+END
+editor_common.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/editor/tpl/js/editor_common.min.js
+END
+editor_module_config.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10446/trunk/modules/editor/tpl/js/editor_module_config.js
+END

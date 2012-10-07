@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/11226/trunk/modules/comment
+END
+comment.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10951/trunk/modules/comment/comment.view.php
+END
+comment.admin.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10951/trunk/modules/comment/comment.admin.controller.php
+END
+comment.item.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10951/trunk/modules/comment/comment.item.php
+END
+comment.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11226/trunk/modules/comment/comment.model.php
+END
+comment.admin.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10951/trunk/modules/comment/comment.admin.view.php
+END
+comment.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11226/trunk/modules/comment/comment.controller.php
+END
+comment.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10951/trunk/modules/comment/comment.class.php
+END

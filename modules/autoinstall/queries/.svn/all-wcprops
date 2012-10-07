@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries
+END
+insertInstalledPackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/insertInstalledPackage.xml
+END
+insertPackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/insertPackage.xml
+END
+updateCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/updateCategory.xml
+END
+getPackageSrlByPath.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/getPackageSrlByPath.xml
+END
+getCategories.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/getCategories.xml
+END
+getInstalledPackageList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/getInstalledPackageList.xml
+END
+getInstalledPackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/getInstalledPackage.xml
+END
+getPackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/getPackage.xml
+END
+updateInstalledPackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/updateInstalledPackage.xml
+END
+updatePackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/updatePackage.xml
+END
+deleteCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/deleteCategory.xml
+END
+insertCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/insertCategory.xml
+END
+getPackageCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/getPackageCount.xml
+END
+getInstalledPackageCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/getInstalledPackageCount.xml
+END
+getLatestPackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/getLatestPackage.xml
+END
+getCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/getCategory.xml
+END
+getPackages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/getPackages.xml
+END
+getInstalledPackages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/getInstalledPackages.xml
+END
+deletePackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/deletePackage.xml
+END
+deleteInstalledPackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9867/trunk/modules/autoinstall/queries/deleteInstalledPackage.xml
+END

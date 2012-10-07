@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11226/trunk/modules/member/queries
+END
+insertGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/member/queries/insertGroup.xml
+END
+getJoinForm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/member/queries/getJoinForm.xml
+END
+updateMemberFindQuestionAnswer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10446/trunk/modules/member/queries/updateMemberFindQuestionAnswer.xml
+END
+deleteAuthMail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/member/queries/deleteAuthMail.xml
+END
+getDeniedIDs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/member/queries/getDeniedIDs.xml
+END
+updateMemberEmailAddress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10031/trunk/modules/member/queries/updateMemberEmailAddress.xml
+END
+insertDeniedID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/member/queries/insertDeniedID.xml
+END
+deleteMembersGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/member/queries/deleteMembersGroup.xml
+END
+updateMemberPassword.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/member/queries/updateMemberPassword.xml
+END
+getDeniedIDList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/member/queries/getDeniedIDList.xml
+END
+getAdminGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/member/queries/getAdminGroup.xml
+END
+updateMemberJoinFormListorder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9867/trunk/modules/member/queries/updateMemberJoinFormListorder.xml
+END
+deleteJoinForm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/member/queries/deleteJoinForm.xml
+END
+getLoginCountHistoryByMemberSrl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10951/trunk/modules/member/queries/getLoginCountHistoryByMemberSrl.xml
+END
+updateAllMemberGroupListOrder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9269/trunk/modules/member/queries/updateAllMemberGroupListOrder.xml
+END
+getSiteAdminMemberSrls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/member/queries/getSiteAdminMemberSrls.xml
+END
+getMemberCountByDate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/member/queries/getMemberCountByDate.xml
+END
+updateMemberGroupListOrder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9269/trunk/modules/member/queries/updateMemberGroupListOrder.xml
+END
+deleteGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/member/queries/deleteGroup.xml
+END
+getAuthMailInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/member/queries/getAuthMailInfo.xml
+END
+getMemberInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/member/queries/getMemberInfo.xml
+END
+getMemberInfoByMemberSrl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/member/queries/getMemberInfoByMemberSrl.xml
+END
+deleteLoginCountByIp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10951/trunk/modules/member/queries/deleteLoginCountByIp.xml
+END
+getMemberSrl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/member/queries/getMemberSrl.xml
+END
+insertAuthMail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/member/queries/insertAuthMail.xml
+END
+deleteLoginCountHistoryByMemberSrl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10951/trunk/modules/member/queries/deleteLoginCountHistoryByMemberSrl.xml
+END
+chkDeniedID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/member/queries/chkDeniedID.xml
+END
+getGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/member/queries/getGroup.xml
+END
+getMemberInfoByEmailAddress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9867/trunk/modules/member/queries/getMemberInfoByEmailAddress.xml
+END
+addMemberToGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/member/queries/addMemberToGroup.xml
+END
+getScrapDocumentList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/member/queries/getScrapDocumentList.xml
+END
+getMemberListWithinGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/member/queries/getMemberListWithinGroup.xml
+END
+getMemberList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/member/queries/getMemberList.xml
+END
+deleteSiteGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/member/queries/deleteSiteGroup.xml
+END
+getMemberGroups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/member/queries/getMemberGroups.xml
+END
+updateAuthMail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/member/queries/updateAuthMail.xml
+END
+insertJoinForm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/member/queries/insertJoinForm.xml
+END
+updateChangePasswordDate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/member/queries/updateChangePasswordDate.xml
+END
+updateGroupDefaultClear.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/member/queries/updateGroupDefaultClear.xml
+END
+getJoinFormList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/member/queries/getJoinFormList.xml
+END
+getGroups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/member/queries/getGroups.xml
+END
+getDeniedNickNames.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11226/trunk/modules/member/queries/getDeniedNickNames.xml
+END
+deleteDeniedNickName.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11226/trunk/modules/member/queries/deleteDeniedNickName.xml
+END
+chkDeniedNickName.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11226/trunk/modules/member/queries/chkDeniedNickName.xml
+END
+updateJoinForm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/member/queries/updateJoinForm.xml
+END
+insertAutologin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/member/queries/insertAutologin.xml
+END
+chkAuthMail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/member/queries/chkAuthMail.xml
+END
+insertLoginCountByIp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10951/trunk/modules/member/queries/insertLoginCountByIp.xml
+END
+deleteMember.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/member/queries/deleteMember.xml
+END
+insertLoginCountHistoryByMemberSrl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10951/trunk/modules/member/queries/insertLoginCountHistoryByMemberSrl.xml
+END
+updateGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/member/queries/updateGroup.xml
+END
+updateMemberDeniedInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/member/queries/updateMemberDeniedInfo.xml
+END
+updateLastLogin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/member/queries/updateLastLogin.xml
+END
+deleteMemberGroupMember.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/member/queries/deleteMemberGroupMember.xml
+END
+getDefaultGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/member/queries/getDefaultGroup.xml
+END
+changeGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/member/queries/changeGroup.xml
+END
+getLoginCountByIp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10951/trunk/modules/member/queries/getLoginCountByIp.xml
+END
+deleteMemberGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/member/queries/deleteMemberGroup.xml
+END
+updateLoginCountByIp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10951/trunk/modules/member/queries/updateLoginCountByIp.xml
+END
+updateLoginCountHistoryByMemberSrl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10951/trunk/modules/member/queries/updateLoginCountHistoryByMemberSrl.xml
+END
+getMemberGroupMemberCountByDate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9867/trunk/modules/member/queries/getMemberGroupMemberCountByDate.xml
+END
+addScrapDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/member/queries/addScrapDocument.xml
+END
+insertDeniedNickName.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11226/trunk/modules/member/queries/insertDeniedNickName.xml
+END
+deleteAutologin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/member/queries/deleteAutologin.xml
+END
+getSiteMemberList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/member/queries/getSiteMemberList.xml
+END
+deleteDeniedID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/member/queries/deleteDeniedID.xml
+END
+getMembersGroups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/member/queries/getMembersGroups.xml
+END
+getMembers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/member/queries/getMembers.xml
+END
+deleteScrapDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/member/queries/deleteScrapDocument.xml
+END
+updateMemberListOrderAll.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/member/queries/updateMemberListOrderAll.xml
+END
+insertMember.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/member/queries/insertMember.xml
+END
+getAutologin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10446/trunk/modules/member/queries/getAutologin.xml
+END
+updateAllChangePasswordDate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9867/trunk/modules/member/queries/updateAllChangePasswordDate.xml
+END
+getAuthMail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/member/queries/getAuthMail.xml
+END
+getScrapDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/member/queries/getScrapDocument.xml
+END
+getMembersGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/member/queries/getMembersGroup.xml
+END
+deleteAuthChangeEmailAddress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10031/trunk/modules/member/queries/deleteAuthChangeEmailAddress.xml
+END
+updateMember.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11226/trunk/modules/member/queries/updateMember.xml
+END

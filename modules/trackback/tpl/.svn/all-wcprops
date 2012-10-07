@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10446/trunk/modules/trackback/tpl
+END
+trackback_module_config.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/trackback/tpl/trackback_module_config.html
+END
+trackback_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10446/trunk/modules/trackback/tpl/trackback_list.html
+END
+send_trackback_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/trackback/tpl/send_trackback_form.html
+END

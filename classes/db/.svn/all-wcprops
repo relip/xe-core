@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/11226/trunk/classes/db
+END
+DBMssql.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11226/trunk/classes/db/DBMssql.class.php
+END
+DB.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11226/trunk/classes/db/DB.class.php
+END
+DBPostgresql.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11226/trunk/classes/db/DBPostgresql.class.php
+END
+DBMysql.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11226/trunk/classes/db/DBMysql.class.php
+END
+DBSqlite3_pdo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11226/trunk/classes/db/DBSqlite3_pdo.class.php
+END
+DBFirebird.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11226/trunk/classes/db/DBFirebird.class.php
+END
+DBCubrid.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11226/trunk/classes/db/DBCubrid.class.php
+END
+DBMysql_innodb.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11226/trunk/classes/db/DBMysql_innodb.class.php
+END
+DBMysqli.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11226/trunk/classes/db/DBMysqli.class.php
+END

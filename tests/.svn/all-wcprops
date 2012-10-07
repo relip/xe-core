@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/11226/trunk/tests
+END
+FuncIncTest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9867/trunk/tests/FuncIncTest.class.php
+END
+Bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9896/trunk/tests/Bootstrap.php
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10031/trunk/tests/phpunit.xml
+END

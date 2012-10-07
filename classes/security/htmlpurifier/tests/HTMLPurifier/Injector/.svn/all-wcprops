@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Injector
+END
+PurifierLinkifyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Injector/PurifierLinkifyTest.php
+END
+RemoveEmptyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Injector/RemoveEmptyTest.php
+END
+RemoveSpansWithoutAttributesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Injector/RemoveSpansWithoutAttributesTest.php
+END
+AutoParagraphTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Injector/AutoParagraphTest.php
+END
+DisplayLinkURITest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Injector/DisplayLinkURITest.php
+END
+LinkifyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Injector/LinkifyTest.php
+END
+SafeObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/tests/HTMLPurifier/Injector/SafeObjectTest.php
+END

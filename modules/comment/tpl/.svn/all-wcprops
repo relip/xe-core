@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/11226/trunk/modules/comment/tpl
+END
+comment_module_config.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10446/trunk/modules/comment/tpl/comment_module_config.html
+END
+comment_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11226/trunk/modules/comment/tpl/comment_list.html
+END
+declared_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11226/trunk/modules/comment/tpl/declared_list.html
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10446/trunk/modules/comment/tpl/header.html
+END

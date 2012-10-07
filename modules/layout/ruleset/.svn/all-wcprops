@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11226/trunk/modules/layout/ruleset
+END
+deleteLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/layout/ruleset/deleteLayout.xml
+END
+updateLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/layout/ruleset/updateLayout.xml
+END
+insertLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/layout/ruleset/insertLayout.xml
+END
+imageUpload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11226/trunk/modules/layout/ruleset/imageUpload.xml
+END
+userLayoutImport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/layout/ruleset/userLayoutImport.xml
+END
+codeUpdate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/layout/ruleset/codeUpdate.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/11284/trunk/modules/spamfilter
+END
+spamfilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/spamfilter/spamfilter.class.php
+END
+spamfilter.admin.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11226/trunk/modules/spamfilter/spamfilter.admin.controller.php
+END
+spamfilter.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10446/trunk/modules/spamfilter/spamfilter.model.php
+END
+spamfilter.admin.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/spamfilter/spamfilter.admin.view.php
+END
+spamfilter.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11284/trunk/modules/spamfilter/spamfilter.controller.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11226/trunk/modules/member/schemas
+END
+member_count_history.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10951/trunk/modules/member/schemas/member_count_history.xml
+END
+member_denied_nick_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11226/trunk/modules/member/schemas/member_denied_nick_name.xml
+END
+member_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/member/schemas/member_group.xml
+END
+member.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9867/trunk/modules/member/schemas/member.xml
+END
+member_login_count.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10951/trunk/modules/member/schemas/member_login_count.xml
+END
+member_autologin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/member/schemas/member_autologin.xml
+END
+member_join_form.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/member/schemas/member_join_form.xml
+END
+member_denied_user_id.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/member/schemas/member_denied_user_id.xml
+END
+member_group_member.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/member/schemas/member_group_member.xml
+END
+member_auth_mail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/member/schemas/member_auth_mail.xml
+END
+member_scrap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/member/schemas/member_scrap.xml
+END

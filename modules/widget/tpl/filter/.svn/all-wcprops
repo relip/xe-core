@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9867/trunk/modules/widget/tpl/filter
+END
+add_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/widget/tpl/filter/add_content.xml
+END
+generate_code.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/widget/tpl/filter/generate_code.xml
+END
+style_generate_code_in_page.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9867/trunk/modules/widget/tpl/filter/style_generate_code_in_page.xml
+END
+generate_code_in_page.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/widget/tpl/filter/generate_code_in_page.xml
+END

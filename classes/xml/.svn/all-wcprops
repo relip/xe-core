@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/11226/trunk/classes/xml
+END
+XmlQueryParser.150.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10951/trunk/classes/xml/XmlQueryParser.150.class.php
+END
+XmlGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10951/trunk/classes/xml/XmlGenerator.class.php
+END
+GeneralXmlParser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10951/trunk/classes/xml/GeneralXmlParser.class.php
+END
+XmlParser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10951/trunk/classes/xml/XmlParser.class.php
+END
+XmlLangParser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10951/trunk/classes/xml/XmlLangParser.class.php
+END
+XmlQueryParser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10951/trunk/classes/xml/XmlQueryParser.class.php
+END
+XmlJsFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10951/trunk/classes/xml/XmlJsFilter.class.php
+END

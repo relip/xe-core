@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10446/trunk/modules/comment/schemas
+END
+comments_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/comment/schemas/comments_list.xml
+END
+comment_voted_log.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/comment/schemas/comment_voted_log.xml
+END
+comment_declared.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/comment/schemas/comment_declared.xml
+END
+comments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10446/trunk/modules/comment/schemas/comments.xml
+END
+comment_declared_log.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/comment/schemas/comment_declared_log.xml
+END

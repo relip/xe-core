@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/11226/trunk/modules/point
+END
+point.admin.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10624/trunk/modules/point/point.admin.view.php
+END
+point.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9867/trunk/modules/point/point.controller.php
+END
+point.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9867/trunk/modules/point/point.class.php
+END
+point.admin.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10951/trunk/modules/point/point.admin.controller.php
+END
+point.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9867/trunk/modules/point/point.view.php
+END
+point.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9867/trunk/modules/point/point.model.php
+END

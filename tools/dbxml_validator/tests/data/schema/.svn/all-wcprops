@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/schema
+END
+sizeVarcharType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/schema/sizeVarcharType.xml
+END
+fixedSizeType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/schema/fixedSizeType.xml
+END
+autoIncrementType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10624/trunk/tools/dbxml_validator/tests/data/schema/autoIncrementType.xml
+END

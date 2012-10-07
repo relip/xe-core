@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9867/trunk/modules/module/tpl/filter
+END
+insert_category.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/tpl/filter/insert_category.xml
+END
+insert_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/module/tpl/filter/insert_lang.xml
+END
+insert_modules_grant.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/module/tpl/filter/insert_modules_grant.xml
+END
+insert_module_setup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/module/tpl/filter/insert_module_setup.xml
+END
+copy_module.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/module/tpl/filter/copy_module.xml
+END
+insert_shortcut.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/tpl/filter/insert_shortcut.xml
+END
+insert_grant.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/module/tpl/filter/insert_grant.xml
+END
+update_category.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/module/tpl/filter/update_category.xml
+END

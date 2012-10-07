@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11226/trunk/tests/classes/db/db/xml_query/mysql
+END
+MysqlInsertTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10951/trunk/tests/classes/db/db/xml_query/mysql/MysqlInsertTest.php
+END
+MysqlIndexHintTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mysql/MysqlIndexHintTest.php
+END
+MysqlSelectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11226/trunk/tests/classes/db/db/xml_query/mysql/MysqlSelectTest.php
+END
+MysqlUpdateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9867/trunk/tests/classes/db/db/xml_query/mysql/MysqlUpdateTest.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/9867/trunk/modules/editor/schemas
+END
+editor_components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/editor/schemas/editor_components.xml
+END
+editor_autosave.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/editor/schemas/editor_autosave.xml
+END
+editor_components_site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/editor/schemas/editor_components_site.xml
+END

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11226/trunk/modules/comment/queries
+END
+deleteCommentList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/comment/queries/deleteCommentList.xml
+END
+getCommentVotedLogInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getCommentVotedLogInfo.xml
+END
+getCommentParentNextSibling.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getCommentParentNextSibling.xml
+END
+getNewestCommentList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10446/trunk/modules/comment/queries/getNewestCommentList.xml
+END
+deleteComment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/comment/queries/deleteComment.xml
+END
+updatePublishedStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10446/trunk/modules/comment/queries/updatePublishedStatus.xml
+END
+getDeclaredComment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getDeclaredComment.xml
+END
+deleteCommentVotedLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/comment/queries/deleteCommentVotedLog.xml
+END
+getChildComments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11226/trunk/modules/comment/queries/getChildComments.xml
+END
+getTotalCommentCountByGroupStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getTotalCommentCountByGroupStatus.xml
+END
+getCommentList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getCommentList.xml
+END
+getComment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getComment.xml
+END
+getTotalCommentList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10446/trunk/modules/comment/queries/getTotalCommentList.xml
+END
+getCommentDeclaredLogInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getCommentDeclaredLogInfo.xml
+END
+getTotalCommentCountWithinMemberByGroupStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getTotalCommentCountWithinMemberByGroupStatus.xml
+END
+getDistinctModules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10446/trunk/modules/comment/queries/getDistinctModules.xml
+END
+getCommentCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10446/trunk/modules/comment/queries/getCommentCount.xml
+END
+insertDeclaredComment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/comment/queries/insertDeclaredComment.xml
+END
+getCommentListItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getCommentListItem.xml
+END
+insertCommentDeclaredLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/comment/queries/insertCommentDeclaredLog.xml
+END
+insertCommentList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/comment/queries/insertCommentList.xml
+END
+getComments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getComments.xml
+END
+insertComment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10446/trunk/modules/comment/queries/insertComment.xml
+END
+updateDeclaredComment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/comment/queries/updateDeclaredComment.xml
+END
+insertCommentVotedLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9867/trunk/modules/comment/queries/insertCommentVotedLog.xml
+END
+getCommentPageList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10446/trunk/modules/comment/queries/getCommentPageList.xml
+END
+deleteDeclaredComments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/comment/queries/deleteDeclaredComments.xml
+END
+updateVotedCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/comment/queries/updateVotedCount.xml
+END
+getDeclaredList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getDeclaredList.xml
+END
+updateBlamedCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/comment/queries/updateBlamedCount.xml
+END
+updateCommentListArrange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/comment/queries/updateCommentListArrange.xml
+END
+deleteCommentsList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/comment/queries/deleteCommentsList.xml
+END
+getVotedMemberList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getVotedMemberList.xml
+END
+updateComment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/modules/comment/queries/updateComment.xml
+END
+updateCommentListModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9867/trunk/modules/comment/queries/updateCommentListModule.xml
+END
+deleteComments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/comment/queries/deleteComments.xml
+END
+deleteModuleCommentsList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/comment/queries/deleteModuleCommentsList.xml
+END
+updateCommentModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9867/trunk/modules/comment/queries/updateCommentModule.xml
+END
+deleteCommentDeclaredLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9867/trunk/modules/comment/queries/deleteCommentDeclaredLog.xml
+END
+getTotalCommentListWithinMember.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getTotalCommentListWithinMember.xml
+END
+getAllComments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getAllComments.xml
+END
+deleteModuleComments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/comment/queries/deleteModuleComments.xml
+END
+getChildCommentCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/comment/queries/getChildCommentCount.xml
+END

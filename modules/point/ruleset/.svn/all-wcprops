@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/9867/trunk/modules/point/ruleset
+END
+insertConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/point/ruleset/insertConfig.xml
+END
+updatePoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9867/trunk/modules/point/ruleset/updatePoint.xml
+END

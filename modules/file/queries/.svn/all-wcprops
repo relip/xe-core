@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9867/trunk/modules/file/queries
+END
+updateFile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/file/queries/updateFile.xml
+END
+updateFileDownloadCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9867/trunk/modules/file/queries/updateFileDownloadCount.xml
+END
+deleteFiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/file/queries/deleteFiles.xml
+END
+deleteModuleFiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9867/trunk/modules/file/queries/deleteModuleFiles.xml
+END
+updateFileTargetType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/file/queries/updateFileTargetType.xml
+END
+getFiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9867/trunk/modules/file/queries/getFiles.xml
+END
+updateFileValid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/modules/file/queries/updateFileValid.xml
+END
+deleteFile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/file/queries/deleteFile.xml
+END
+getFilesCountByGroupValid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9867/trunk/modules/file/queries/getFilesCountByGroupValid.xml
+END
+insertFile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9867/trunk/modules/file/queries/insertFile.xml
+END
+getOneFileInDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/modules/file/queries/getOneFileInDocument.xml
+END
+getModuleFiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/modules/file/queries/getModuleFiles.xml
+END
+getAttachedFileSize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9867/trunk/modules/file/queries/getAttachedFileSize.xml
+END
+getFileList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9867/trunk/modules/file/queries/getFileList.xml
+END
+getFilesCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9867/trunk/modules/file/queries/getFilesCount.xml
+END
+getFile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9867/trunk/modules/file/queries/getFile.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9867/trunk/libs/PEAR.1.9/HTTP/Request2
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9867/trunk/libs/PEAR.1.9/HTTP/Request2/Exception.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9867/trunk/libs/PEAR.1.9/HTTP/Request2/Response.php
+END
+MultipartBody.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9867/trunk/libs/PEAR.1.9/HTTP/Request2/MultipartBody.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9867/trunk/libs/PEAR.1.9/HTTP/Request2/Adapter.php
+END

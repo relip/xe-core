@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/HTML
+END
+Bool.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/HTML/Bool.php
+END
+ID.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/HTML/ID.php
+END
+MultiLength.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/HTML/MultiLength.php
+END
+Color.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/HTML/Color.php
+END
+Nmtokens.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/HTML/Nmtokens.php
+END
+FrameTarget.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/HTML/FrameTarget.php
+END
+Length.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/HTML/Length.php
+END
+LinkTypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/HTML/LinkTypes.php
+END
+Pixels.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/HTML/Pixels.php
+END
+Class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/library/HTMLPurifier/AttrDef/HTML/Class.php
+END

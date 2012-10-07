@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance
+END
+add-vimline.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/add-vimline.php
+END
+generate-schema-cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/generate-schema-cache.php
+END
+regenerate-docs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/regenerate-docs.sh
+END
+config-scanner.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/config-scanner.php
+END
+generate-includes.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/generate-includes.php
+END
+remove-trailing-whitespace.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/remove-trailing-whitespace.php
+END
+update-freshmeat.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/update-freshmeat.php
+END
+generate-ph5p-patch.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/generate-ph5p-patch.php
+END
+merge-library.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/merge-library.php
+END
+old-remove-schema-def.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/old-remove-schema-def.php
+END
+old-remove-require-once.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/old-remove-require-once.php
+END
+flush-definition-cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/flush-definition-cache.php
+END
+rename-config.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/rename-config.php
+END
+PH5P.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/PH5P.php
+END
+generate-standalone.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/generate-standalone.php
+END
+generate-entity-file.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/generate-entity-file.php
+END
+flush.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/flush.php
+END
+old-extract-schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/old-extract-schema.php
+END
+PH5P.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/PH5P.patch
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/.htaccess
+END
+update-config.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/update-config.php
+END
+compile-doxygen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/compile-doxygen.sh
+END
+common.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10624/trunk/classes/security/htmlpurifier/maintenance/common.php
+END
